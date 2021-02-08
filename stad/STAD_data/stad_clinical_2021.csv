@@ -1,0 +1,887 @@
+case_submitter_id	days_to_death	race	vital_status	ajcc_pathologic_stage	days_to_last_follow_up
+TCGA-CD-A486	192	asian	Dead	Stage IIA	104
+TCGA-CD-A486	192	asian	Dead	Stage IIA	104
+TCGA-HU-A4GD	'--	asian	Alive	Stage IIB	692
+TCGA-HU-A4GD	'--	asian	Alive	Stage IIB	692
+TCGA-B7-A5TK	'--	white	Alive	Stage IIIA	288
+TCGA-B7-A5TK	'--	white	Alive	Stage IIIA	288
+TCGA-BR-8364	'--	white	Alive	Stage IIIC	675
+TCGA-BR-8364	'--	white	Alive	Stage IIIC	675
+TCGA-MX-A5UG	113	asian	Dead	Stage IIIA	'--
+TCGA-MX-A5UG	113	asian	Dead	Stage IIIA	'--
+TCGA-BR-7707	'--	white	Alive	Stage IB	1090
+TCGA-BR-7707	'--	white	Alive	Stage IB	1090
+TCGA-FP-A8CX	'--	white	Alive	Stage IIIC	7
+TCGA-FP-A8CX	'--	white	Alive	Stage IIIC	7
+TCGA-BR-A452	229	asian	Dead	Stage IIIA	20
+TCGA-BR-A452	229	asian	Dead	Stage IIIA	20
+TCGA-SW-A7EB	'--	white	Alive	Stage IIIA	176
+TCGA-SW-A7EB	'--	white	Alive	Stage IIIA	176
+TCGA-HU-A4G3	'--	asian	Alive	Stage IIB	170
+TCGA-HU-A4G3	'--	asian	Alive	Stage IIB	170
+TCGA-EQ-A4SO	'--	white	Alive	Stage IIIB	494
+TCGA-EQ-A4SO	'--	white	Alive	Stage IIIB	494
+TCGA-BR-7851	'--	white	Dead	Stage IIB	574
+TCGA-BR-7851	'--	white	Dead	Stage IIB	574
+TCGA-CD-8529	'--	asian	Alive	Stage IV	374
+TCGA-CD-8529	'--	asian	Alive	Stage IV	374
+TCGA-CG-5717	212	not reported	Dead	Stage II	'--
+TCGA-CG-5717	212	not reported	Dead	Stage II	'--
+TCGA-BR-8683	300	asian	Dead	Stage IIIB	18
+TCGA-BR-8683	300	asian	Dead	Stage IIIB	18
+TCGA-HU-A4GY	'--	asian	Alive	Stage IIIA	8
+TCGA-HU-A4GY	'--	asian	Alive	Stage IIIA	8
+TCGA-CG-4477	'--	not reported	Alive	Stage IB	942
+TCGA-CG-4477	'--	not reported	Alive	Stage IB	942
+TCGA-KB-A93G	'--	white	Alive	Stage IB	613
+TCGA-KB-A93G	'--	white	Alive	Stage IB	613
+TCGA-FP-A9TM	'--	white	Alive	'--	189
+TCGA-FP-A9TM	'--	white	Alive	'--	189
+TCGA-D7-6817	'--	white	Alive	Stage IIIA	389
+TCGA-D7-6817	'--	white	Alive	Stage IIIA	389
+TCGA-BR-A4PD	'--	white	Alive	Stage IIB	628
+TCGA-BR-A4PD	'--	white	Alive	Stage IIB	628
+TCGA-BR-A44T	'--	white	Alive	Stage IIA	1038
+TCGA-BR-A44T	'--	white	Alive	Stage IIA	1038
+TCGA-KB-A93H	'--	asian	Alive	Stage IIB	1145
+TCGA-KB-A93H	'--	asian	Alive	Stage IIB	1145
+TCGA-BR-A4PF	'--	white	Alive	Stage IIIB	35
+TCGA-BR-A4PF	'--	white	Alive	Stage IIIB	35
+TCGA-FP-7735	106	black or african american	Dead	Stage IB	12
+TCGA-FP-7735	106	black or african american	Dead	Stage IB	12
+TCGA-CD-8530	'--	asian	Alive	Stage II	377
+TCGA-CD-8530	'--	asian	Alive	Stage II	377
+TCGA-D7-6818	376	white	Dead	Stage IIIA	376
+TCGA-D7-6818	376	white	Dead	Stage IIIA	376
+TCGA-VQ-A8DU	166	white	Dead	Stage IIIA	'--
+TCGA-VQ-A8DU	166	white	Dead	Stage IIIA	'--
+TCGA-HU-8243	180	asian	Dead	Stage IIIC	'--
+TCGA-HU-8243	180	asian	Dead	Stage IIIC	'--
+TCGA-BR-6706	549	white	Dead	Stage IIIA	402
+TCGA-BR-6706	549	white	Dead	Stage IIIA	402
+TCGA-FP-A4BF	168	white	Dead	Stage IIIA	47
+TCGA-FP-A4BF	168	white	Dead	Stage IIIA	47
+TCGA-HU-A4GH	'--	asian	Alive	Stage IA	358
+TCGA-HU-A4GH	'--	asian	Alive	Stage IA	358
+TCGA-VQ-AA6F	'--	white	Alive	Stage IIB	1646
+TCGA-VQ-AA6F	'--	white	Alive	Stage IIB	1646
+TCGA-VQ-A8PX	'--	not reported	Alive	Stage IA	1964
+TCGA-VQ-A8PX	'--	not reported	Alive	Stage IA	1964
+TCGA-VQ-A8DV	403	white	Dead	Stage IB	'--
+TCGA-VQ-A8DV	403	white	Dead	Stage IB	'--
+TCGA-FP-7998	'--	white	Alive	Stage IIIC	678
+TCGA-FP-7998	'--	white	Alive	Stage IIIC	678
+TCGA-CG-4300	609	not reported	Dead	Stage IIIB	'--
+TCGA-CG-4300	609	not reported	Dead	Stage IIIB	'--
+TCGA-BR-8384	'--	white	Alive	Stage IIIC	113
+TCGA-BR-8384	'--	white	Alive	Stage IIIC	113
+TCGA-EQ-5647	19	white	Dead	Stage IV	'--
+TCGA-EQ-5647	19	white	Dead	Stage IV	'--
+TCGA-VQ-A91W	'--	white	Alive	Stage IIIA	1851
+TCGA-VQ-A91W	'--	white	Alive	Stage IIIA	1851
+TCGA-BR-8368	'--	white	Alive	Stage IB	131
+TCGA-BR-8368	'--	white	Alive	Stage IB	131
+TCGA-CG-4438	'--	not reported	Alive	Stage IV	1645
+TCGA-CG-4438	'--	not reported	Alive	Stage IV	1645
+TCGA-VQ-AA6J	'--	black or african american	Alive	Stage IIIB	838
+TCGA-VQ-AA6J	'--	black or african american	Alive	Stage IIIB	838
+TCGA-CD-8528	'--	asian	Alive	Stage IIIA	375
+TCGA-CD-8528	'--	asian	Alive	Stage IIIA	375
+TCGA-CG-4305	'--	not reported	Alive	Stage II	485
+TCGA-CG-4305	'--	not reported	Alive	Stage II	485
+TCGA-BR-A4J6	'--	white	Alive	Stage IIA	20
+TCGA-BR-A4J6	'--	white	Alive	Stage IIA	20
+TCGA-VQ-A8E7	'--	white	Alive	Stage IV	1138
+TCGA-VQ-A8E7	'--	white	Alive	Stage IV	1138
+TCGA-IN-8663	103	white	Dead	Stage IIB	'--
+TCGA-IN-8663	103	white	Dead	Stage IIB	'--
+TCGA-BR-A4J5	'--	asian	Alive	Stage IIIA	862
+TCGA-BR-A4J5	'--	asian	Alive	Stage IIIA	862
+TCGA-CD-A4MJ	'--	asian	Alive	Stage IB	384
+TCGA-CD-A4MJ	'--	asian	Alive	Stage IB	384
+TCGA-VQ-A923	0	white	Dead	Stage IIIA	'--
+TCGA-VQ-A923	0	white	Dead	Stage IIIA	'--
+TCGA-CD-5802	'--	asian	Alive	Stage II	406
+TCGA-CD-5802	'--	asian	Alive	Stage II	406
+TCGA-BR-A4J4	'--	asian	Alive	Stage IIIB	16
+TCGA-BR-A4J4	'--	asian	Alive	Stage IIIB	16
+TCGA-VQ-A927	200	white	Dead	Stage IIIB	'--
+TCGA-VQ-A927	200	white	Dead	Stage IIIB	'--
+TCGA-D7-8578	'--	white	Alive	Stage IB	643
+TCGA-D7-8578	'--	white	Alive	Stage IB	643
+TCGA-IN-A6RJ	'--	white	Alive	Stage IA	379
+TCGA-IN-A6RJ	'--	white	Alive	Stage IA	379
+TCGA-BR-7717	552	white	Dead	Stage IV	21
+TCGA-BR-7717	552	white	Dead	Stage IV	21
+TCGA-VQ-A91Q	633	not reported	Dead	Stage IV	'--
+TCGA-VQ-A91Q	633	not reported	Dead	Stage IV	'--
+TCGA-VQ-A924	1686	not reported	Dead	Stage II	'--
+TCGA-VQ-A924	1686	not reported	Dead	Stage II	'--
+TCGA-HU-A4H0	'--	asian	Alive	Stage IIIC	64
+TCGA-HU-A4H0	'--	asian	Alive	Stage IIIC	64
+TCGA-BR-8484	766	white	Dead	Stage IIIA	22
+TCGA-BR-8484	766	white	Dead	Stage IIIA	22
+TCGA-BR-A4PE	'--	white	Alive	Stage IB	621
+TCGA-BR-A4PE	'--	white	Alive	Stage IB	621
+TCGA-CG-5723	'--	not reported	Alive	Stage II	2496
+TCGA-CG-5723	'--	not reported	Alive	Stage II	2496
+TCGA-VQ-A8PO	282	white	Dead	Stage IIB	'--
+TCGA-VQ-A8PO	282	white	Dead	Stage IIB	'--
+TCGA-VQ-A8P5	235	white	Dead	Stage IIA	'--
+TCGA-VQ-A8P5	235	white	Dead	Stage IIA	'--
+TCGA-ZQ-A9CR	24	white	Dead	Stage IIIC	'--
+TCGA-ZQ-A9CR	24	white	Dead	Stage IIIC	'--
+TCGA-BR-6803	'--	white	Alive	Stage IIA	949
+TCGA-BR-6803	'--	white	Alive	Stage IIA	949
+TCGA-BR-8589	'--	white	Alive	Stage IIIB	825
+TCGA-BR-8589	'--	white	Alive	Stage IIIB	825
+TCGA-VQ-A8PP	712	not reported	Dead	Stage IV	'--
+TCGA-VQ-A8PP	712	not reported	Dead	Stage IV	'--
+TCGA-BR-6565	279	white	Dead	Stage IIB	19
+TCGA-BR-6565	279	white	Dead	Stage IIB	19
+TCGA-D7-6525	406	white	Dead	Stage IIIA	181
+TCGA-D7-6525	406	white	Dead	Stage IIIA	181
+TCGA-D7-6520	'--	white	Alive	Stage IIIA	573
+TCGA-D7-6520	'--	white	Alive	Stage IIIA	573
+TCGA-CG-4306	1	not reported	Dead	Stage IV	'--
+TCGA-CG-4306	1	not reported	Dead	Stage IV	'--
+TCGA-D7-A74A	'--	white	Alive	Stage IIIA	607
+TCGA-D7-A74A	'--	white	Alive	Stage IIIA	607
+TCGA-VQ-AA6D	'--	not reported	Alive	Stage IIIA	521
+TCGA-VQ-AA6D	'--	not reported	Alive	Stage IIIA	521
+TCGA-VQ-A91S	'--	black or african american	Alive	Stage IIIB	1000
+TCGA-VQ-A91S	'--	black or african american	Alive	Stage IIIB	1000
+TCGA-BR-4366	'--	white	Alive	'--	0
+TCGA-BR-4366	'--	white	Alive	'--	0
+TCGA-CG-4465	274	not reported	Dead	Stage IV	'--
+TCGA-CG-4465	274	not reported	Dead	Stage IV	'--
+TCGA-VQ-AA6I	491	white	Dead	Stage IIIB	'--
+TCGA-VQ-AA6I	491	white	Dead	Stage IIIB	'--
+TCGA-D7-8573	'--	white	Alive	Stage IIA	593
+TCGA-D7-8573	'--	white	Alive	Stage IIA	593
+TCGA-D7-6518	'--	white	Alive	Stage IIIA	582
+TCGA-D7-6518	'--	white	Alive	Stage IIIA	582
+TCGA-CG-4443	'--	not reported	Alive	Stage IA	912
+TCGA-CG-4443	'--	not reported	Alive	Stage IA	912
+TCGA-HU-A4GQ	3	asian	Dead	Stage IIIC	'--
+TCGA-HU-A4GQ	3	asian	Dead	Stage IIIC	'--
+TCGA-BR-6707	605	white	Dead	Stage IIA	491
+TCGA-BR-6707	605	white	Dead	Stage IIA	491
+TCGA-VQ-A94T	342	not reported	Dead	Stage IIIB	'--
+TCGA-VQ-A94T	342	not reported	Dead	Stage IIIB	'--
+TCGA-CG-5720	30	not reported	Dead	Stage IB	'--
+TCGA-CG-5720	30	not reported	Dead	Stage IB	'--
+TCGA-BR-4191	558	white	Dead	'--	0
+TCGA-BR-4191	558	white	Dead	'--	0
+TCGA-R5-A805	281	white	Dead	Stage IIIB	'--
+TCGA-R5-A805	281	white	Dead	Stage IIIB	'--
+TCGA-BR-8289	81	white	Dead	Stage IV	8
+TCGA-BR-8289	81	white	Dead	Stage IV	8
+TCGA-CD-5799	'--	asian	Alive	Stage II	396
+TCGA-CD-5799	'--	asian	Alive	Stage II	396
+TCGA-IN-A7NU	'--	white	Alive	Stage IIIB	356
+TCGA-IN-A7NU	'--	white	Alive	Stage IIIB	356
+TCGA-IN-AB1V	'--	white	Alive	Stage IA	479
+TCGA-IN-AB1V	'--	white	Alive	Stage IA	479
+TCGA-BR-8080	292	white	Dead	Stage IIIC	15
+TCGA-BR-8080	292	white	Dead	Stage IIIC	15
+TCGA-BR-4187	141	white	Dead	'--	0
+TCGA-BR-4187	141	white	Dead	'--	0
+TCGA-VQ-A922	275	not reported	Dead	Stage IV	262
+TCGA-VQ-A922	275	not reported	Dead	Stage IV	262
+TCGA-BR-8295	67	white	Dead	Stage IIB	47
+TCGA-BR-8295	67	white	Dead	Stage IIB	47
+TCGA-CG-5724	366	not reported	Dead	Stage IV	'--
+TCGA-CG-5724	366	not reported	Dead	Stage IV	'--
+TCGA-3M-AB46	'--	white	Alive	Stage IB	1765
+TCGA-3M-AB46	'--	white	Alive	Stage IB	1765
+TCGA-RD-A7BW	156	white	Dead	Stage IB	'--
+TCGA-RD-A7BW	156	white	Dead	Stage IB	'--
+TCGA-BR-4188	226	white	Dead	'--	0
+TCGA-BR-4188	226	white	Dead	'--	0
+TCGA-CG-4466	'--	not reported	Alive	Stage IB	577
+TCGA-CG-4466	'--	not reported	Alive	Stage IB	577
+TCGA-HU-A4GP	'--	asian	Alive	Stage IIA	273
+TCGA-HU-A4GP	'--	asian	Alive	Stage IIA	273
+TCGA-CG-5734	243	not reported	Dead	Stage IIIA	'--
+TCGA-CG-5734	243	not reported	Dead	Stage IIIA	'--
+TCGA-VQ-A94P	81	white	Dead	'--	'--
+TCGA-VQ-A94P	81	white	Dead	'--	'--
+TCGA-VQ-A8PK	543	white	Dead	Stage IIIB	'--
+TCGA-VQ-A8PK	543	white	Dead	Stage IIIB	'--
+TCGA-VQ-A8PY	436	white	Dead	Stage IIIB	'--
+TCGA-VQ-A8PY	436	white	Dead	Stage IIIB	'--
+TCGA-BR-7196	'--	white	Alive	Stage IV	666
+TCGA-BR-7196	'--	white	Alive	Stage IV	666
+TCGA-BR-7197	'--	white	Alive	Stage II	280
+TCGA-BR-7197	'--	white	Alive	Stage II	280
+TCGA-HU-A4G9	'--	asian	Alive	Stage IA	736
+TCGA-HU-A4G9	'--	asian	Alive	Stage IA	736
+TCGA-VQ-A8PQ	476	white	Dead	Stage IV	'--
+TCGA-VQ-A8PQ	476	white	Dead	Stage IV	'--
+TCGA-HU-8610	'--	asian	Alive	Stage IA	23
+TCGA-HU-8610	'--	asian	Alive	Stage IA	23
+TCGA-IN-A6RS	'--	white	Alive	Stage IA	383
+TCGA-IN-A6RS	'--	white	Alive	Stage IA	383
+TCGA-CG-4472	'--	not reported	Alive	Stage IV	365
+TCGA-CG-4472	'--	not reported	Alive	Stage IV	365
+TCGA-BR-A453	185	asian	Dead	Stage IV	92
+TCGA-BR-A453	185	asian	Dead	Stage IV	92
+TCGA-CG-4460	669	not reported	Dead	Stage IV	'--
+TCGA-CG-4460	669	not reported	Dead	Stage IV	'--
+TCGA-BR-8677	'--	white	Alive	Stage IIIB	813
+TCGA-BR-8677	'--	white	Alive	Stage IIIB	813
+TCGA-CD-A489	344	asian	Dead	Stage IIA	4
+TCGA-CD-A489	344	asian	Dead	Stage IIA	4
+TCGA-RD-A8MW	1153	white	Dead	Stage IIIB	1153
+TCGA-RD-A8MW	1153	white	Dead	Stage IIIB	1153
+TCGA-HU-A4H2	'--	asian	Alive	Stage IIIB	394
+TCGA-HU-A4H2	'--	asian	Alive	Stage IIIB	394
+TCGA-HU-8608	'--	asian	Alive	Stage IIIB	641
+TCGA-HU-8608	'--	asian	Alive	Stage IIIB	641
+TCGA-RD-A8NB	513	white	Dead	Stage IIIA	'--
+TCGA-RD-A8NB	513	white	Dead	Stage IIIA	'--
+TCGA-D7-6528	'--	white	Alive	Stage IB	463
+TCGA-D7-6528	'--	white	Alive	Stage IB	463
+TCGA-RD-A8N2	'--	white	Alive	Stage IB	3540
+TCGA-RD-A8N2	'--	white	Alive	Stage IB	3540
+TCGA-HU-A4GF	'--	asian	Alive	Stage IIA	785
+TCGA-HU-A4GF	'--	asian	Alive	Stage IIA	785
+TCGA-D7-A6F0	'--	white	Alive	Stage IB	678
+TCGA-D7-A6F0	'--	white	Alive	Stage IB	678
+TCGA-BR-8682	'--	asian	Alive	Stage IIB	991
+TCGA-BR-8682	'--	asian	Alive	Stage IIB	991
+TCGA-BR-A4J2	'--	asian	Alive	Stage IIB	431
+TCGA-BR-A4J2	'--	asian	Alive	Stage IIB	431
+TCGA-FP-A4BE	'--	black or african american	Alive	Stage IIA	337
+TCGA-FP-A4BE	'--	black or african american	Alive	Stage IIA	337
+TCGA-BR-8369	'--	white	Alive	Stage IIIB	427
+TCGA-BR-8369	'--	white	Alive	Stage IIIB	427
+TCGA-D7-A747	255	white	Dead	Stage IIB	'--
+TCGA-D7-A747	255	white	Dead	Stage IIB	'--
+TCGA-FP-7916	428	asian	Dead	Stage IIIC	92
+TCGA-FP-7916	428	asian	Dead	Stage IIIC	92
+TCGA-IN-7808	105	white	Dead	'--	'--
+TCGA-IN-7808	105	white	Dead	'--	'--
+TCGA-BR-4256	284	white	Dead	'--	0
+TCGA-BR-4256	284	white	Dead	'--	0
+TCGA-BR-8077	'--	white	Alive	Stage IIIB	21
+TCGA-BR-8077	'--	white	Alive	Stage IIIB	21
+TCGA-IN-A7NR	'--	white	Alive	Stage IV	198
+TCGA-IN-A7NR	'--	white	Alive	Stage IV	198
+TCGA-CD-8525	'--	asian	Alive	Stage IIIA	383
+TCGA-CD-8525	'--	asian	Alive	Stage IIIA	383
+TCGA-BR-8679	'--	white	Alive	Stage IB	0
+TCGA-BR-8679	'--	white	Alive	Stage IB	0
+TCGA-VQ-A8PJ	82	not reported	Dead	Stage IV	'--
+TCGA-VQ-A8PJ	82	not reported	Dead	Stage IV	'--
+TCGA-R5-A7ZR	185	black or african american	Dead	Stage III	'--
+TCGA-R5-A7ZR	185	black or african american	Dead	Stage III	'--
+TCGA-D7-A4YU	'--	white	Alive	Stage IIIB	500
+TCGA-D7-A4YU	'--	white	Alive	Stage IIIB	500
+TCGA-D7-6521	'--	white	Alive	'--	564
+TCGA-D7-6521	'--	white	Alive	'--	564
+TCGA-RD-A7BT	262	native hawaiian or other pacific islander	Dead	Stage IV	'--
+TCGA-RD-A7BT	262	native hawaiian or other pacific islander	Dead	Stage IV	'--
+TCGA-RD-A8N9	'--	asian	Alive	Stage II	1083
+TCGA-RD-A8N9	'--	asian	Alive	Stage II	1083
+TCGA-D7-A6EY	348	white	Dead	Stage IIIB	'--
+TCGA-D7-A6EY	348	white	Dead	Stage IIIB	'--
+TCGA-BR-8284	245	white	Dead	Stage IIIC	22
+TCGA-BR-8284	245	white	Dead	Stage IIIC	22
+TCGA-VQ-A94U	'--	white	Alive	Stage IIB	819
+TCGA-VQ-A94U	'--	white	Alive	Stage IIB	819
+TCGA-VQ-A8PD	496	white	Dead	Stage IIIC	'--
+TCGA-VQ-A8PD	496	white	Dead	Stage IIIC	'--
+TCGA-BR-7723	874	white	Dead	Stage IIIB	564
+TCGA-BR-7723	874	white	Dead	Stage IIIB	564
+TCGA-VQ-A94R	1294	white	Dead	'--	'--
+TCGA-VQ-A94R	1294	white	Dead	'--	'--
+TCGA-BR-8371	359	white	Dead	Stage IIIB	11
+TCGA-BR-8371	359	white	Dead	Stage IIIB	11
+TCGA-HU-A4GX	'--	asian	Alive	Stage IIIC	616
+TCGA-HU-A4GX	'--	asian	Alive	Stage IIIC	616
+TCGA-CG-4475	'--	not reported	Alive	Stage IIB	699
+TCGA-CG-4475	'--	not reported	Alive	Stage IIB	699
+TCGA-BR-8382	762	white	Dead	Stage IIIC	482
+TCGA-BR-8382	762	white	Dead	Stage IIIC	482
+TCGA-BR-4368	'--	white	Alive	Stage IV	0
+TCGA-BR-4368	'--	white	Alive	Stage IV	0
+TCGA-D7-A4YX	'--	white	Alive	Stage IIB	1108
+TCGA-D7-A4YX	'--	white	Alive	Stage IIB	1108
+TCGA-VQ-A8PB	1043	white	Dead	Stage II	1023
+TCGA-VQ-A8PB	1043	white	Dead	Stage II	1023
+TCGA-D7-6524	'--	white	Alive	Stage II	543
+TCGA-D7-6524	'--	white	Alive	Stage II	543
+TCGA-BR-8680	'--	asian	Alive	Stage IV	972
+TCGA-BR-8680	'--	asian	Alive	Stage IV	972
+TCGA-BR-8485	'--	white	Alive	Stage IIIC	280
+TCGA-BR-8485	'--	white	Alive	Stage IIIC	280
+TCGA-BR-4201	940	white	Dead	'--	0
+TCGA-BR-4201	940	white	Dead	'--	0
+TCGA-CG-5718	1095	not reported	Dead	Stage II	31
+TCGA-CG-5718	1095	not reported	Dead	Stage II	31
+TCGA-BR-8296	474	white	Dead	Stage IIIC	45
+TCGA-BR-8296	474	white	Dead	Stage IIIC	45
+TCGA-VQ-A91A	'--	white	Alive	Stage IIIB	1200
+TCGA-VQ-A91A	'--	white	Alive	Stage IIIB	1200
+TCGA-HU-A4H6	'--	asian	Alive	Stage IIIA	644
+TCGA-HU-A4H6	'--	asian	Alive	Stage IIIA	644
+TCGA-BR-A4IY	'--	asian	Alive	Stage IIB	392
+TCGA-BR-A4IY	'--	asian	Alive	Stage IIB	392
+TCGA-BR-6458	588	white	Dead	Stage IIB	213
+TCGA-BR-6458	588	white	Dead	Stage IIB	213
+TCGA-D7-A74B	217	white	Dead	Stage IIIB	'--
+TCGA-D7-A74B	217	white	Dead	Stage IIIB	'--
+TCGA-VQ-A8P3	'--	white	Alive	Stage IIIA	1132
+TCGA-VQ-A8P3	'--	white	Alive	Stage IIIA	1132
+TCGA-MX-A666	'--	white	Alive	Stage IIA	427
+TCGA-MX-A666	'--	white	Alive	Stage IIA	427
+TCGA-HF-7132	'--	not reported	Alive	Stage II	2351
+TCGA-HF-7132	'--	not reported	Alive	Stage II	2351
+TCGA-RD-A7BS	336	white	Dead	Stage IIIA	'--
+TCGA-RD-A7BS	336	white	Dead	Stage IIIA	'--
+TCGA-VQ-A91E	'--	white	Alive	Stage IIIB	664
+TCGA-VQ-A91E	'--	white	Alive	Stage IIIB	664
+TCGA-F1-6875	2197	black or african american	Dead	Stage IA	'--
+TCGA-F1-6875	2197	black or african american	Dead	Stage IA	'--
+TCGA-CD-A48A	'--	asian	Alive	Stage IIA	378
+TCGA-CD-A48A	'--	asian	Alive	Stage IIA	378
+TCGA-BR-4279	291	white	Dead	Stage II	0
+TCGA-BR-4279	291	white	Dead	Stage II	0
+TCGA-ZA-A8F6	'--	white	Alive	Stage IB	525
+TCGA-ZA-A8F6	'--	white	Alive	Stage IB	525
+TCGA-BR-8286	'--	white	Alive	Stage II	895
+TCGA-BR-8286	'--	white	Alive	Stage II	895
+TCGA-D7-6822	'--	white	Alive	Stage IB	375
+TCGA-D7-6822	'--	white	Alive	Stage IB	375
+TCGA-VQ-A8DL	28	white	Dead	Stage IIA	'--
+TCGA-VQ-A8DL	28	white	Dead	Stage IIA	'--
+TCGA-B7-A5TJ	'--	white	Alive	Stage IIB	335
+TCGA-B7-A5TJ	'--	white	Alive	Stage IIB	335
+TCGA-VQ-A92D	'--	white	Alive	Stage IB	2032
+TCGA-VQ-A92D	'--	white	Alive	Stage IB	2032
+TCGA-BR-8366	'--	white	Alive	Stage IIA	29
+TCGA-BR-8366	'--	white	Alive	Stage IIA	29
+TCGA-VQ-AA6B	'--	white	Alive	Stage IIIB	1002
+TCGA-VQ-AA6B	'--	white	Alive	Stage IIIB	1002
+TCGA-CG-4436	'--	not reported	Alive	Stage IB	243
+TCGA-CG-4436	'--	not reported	Alive	Stage IB	243
+TCGA-CG-5730	'--	not reported	Alive	Stage IV	122
+TCGA-CG-5730	'--	not reported	Alive	Stage IV	122
+TCGA-D7-6527	312	white	Dead	Stage II	126
+TCGA-D7-6527	312	white	Dead	Stage II	126
+TCGA-BR-A4QM	'--	white	Alive	Stage IIIA	156
+TCGA-BR-A4QM	'--	white	Alive	Stage IIIA	156
+TCGA-BR-7715	'--	white	Alive	Stage IIA	1023
+TCGA-BR-7715	'--	white	Alive	Stage IIA	1023
+TCGA-BR-4357	'--	white	Alive	'--	0
+TCGA-BR-4357	'--	white	Alive	'--	0
+TCGA-CG-5716	'--	not reported	Alive	Stage IV	0
+TCGA-CG-5716	'--	not reported	Alive	Stage IV	0
+TCGA-RD-A8N0	'--	white	Alive	Stage IIIB	1236
+TCGA-RD-A8N0	'--	white	Alive	Stage IIIB	1236
+TCGA-BR-4294	'--	white	Alive	'--	0
+TCGA-BR-4294	'--	white	Alive	'--	0
+TCGA-CG-4449	'--	not reported	Alive	Stage II	580
+TCGA-CG-4449	'--	not reported	Alive	Stage II	580
+TCGA-CG-4437	'--	not reported	Alive	Stage II	245
+TCGA-CG-4437	'--	not reported	Alive	Stage II	245
+TCGA-BR-8588	'--	white	Alive	Stage IIB	389
+TCGA-BR-8588	'--	white	Alive	Stage IIB	389
+TCGA-CD-A4MG	200	asian	Dead	Stage IIA	2
+TCGA-CD-A4MG	200	asian	Dead	Stage IIA	2
+TCGA-BR-4369	'--	white	Alive	'--	0
+TCGA-BR-4369	'--	white	Alive	'--	0
+TCGA-D7-8574	'--	white	Alive	Stage IIIA	523
+TCGA-D7-8574	'--	white	Alive	Stage IIIA	523
+TCGA-BR-A4J1	22	asian	Dead	Stage IIIA	'--
+TCGA-BR-A4J1	22	asian	Dead	Stage IIIA	'--
+TCGA-HF-7131	'--	not reported	Alive	Stage IB	'--
+TCGA-HF-7131	'--	not reported	Alive	Stage IB	'--
+TCGA-HJ-7597	805	white	Dead	Stage IB	'--
+TCGA-HJ-7597	805	white	Dead	Stage IB	'--
+TCGA-F1-6177	'--	black or african american	Dead	Stage I	0
+TCGA-F1-6177	'--	black or african american	Dead	Stage I	0
+TCGA-BR-6710	'--	white	Alive	Stage IB	273
+TCGA-BR-6710	'--	white	Alive	Stage IB	273
+TCGA-CD-5801	401	asian	Dead	Stage IIIA	15
+TCGA-CD-5801	401	asian	Dead	Stage IIIA	15
+TCGA-VQ-AA69	'--	white	Alive	Stage IIIA	864
+TCGA-VQ-AA69	'--	white	Alive	Stage IIIA	864
+TCGA-EQ-8122	243	white	Dead	Stage IIB	237
+TCGA-EQ-8122	243	white	Dead	Stage IIB	237
+TCGA-BR-8291	607	white	Dead	Stage IIB	496
+TCGA-BR-8291	607	white	Dead	Stage IIB	496
+TCGA-VQ-A91K	'--	white	Alive	Stage IIIA	1862
+TCGA-VQ-A91K	'--	white	Alive	Stage IIIA	1862
+TCGA-D7-6815	'--	white	Alive	Stage IIB	486
+TCGA-D7-6815	'--	white	Alive	Stage IIB	486
+TCGA-BR-6563	'--	white	Alive	Stage IIB	1190
+TCGA-BR-6563	'--	white	Alive	Stage IIB	1190
+TCGA-D7-8575	554	white	Dead	Stage IIIA	7
+TCGA-D7-8575	554	white	Dead	Stage IIIA	7
+TCGA-BR-7957	276	white	Dead	Stage IV	21
+TCGA-BR-7957	276	white	Dead	Stage IV	21
+TCGA-CD-8524	'--	asian	Alive	Stage II	388
+TCGA-CD-8524	'--	asian	Alive	Stage II	388
+TCGA-HU-A4H8	'--	asian	Not Reported	Stage IB	428
+TCGA-HU-A4H8	'--	asian	Not Reported	Stage IB	428
+TCGA-BR-8686	635	asian	Dead	Stage IIIB	477
+TCGA-BR-8686	635	asian	Dead	Stage IIIB	477
+TCGA-VQ-A91D	356	white	Dead	Stage IIIC	'--
+TCGA-VQ-A91D	356	white	Dead	Stage IIIC	'--
+TCGA-VQ-A8PH	389	white	Dead	Stage IIIB	'--
+TCGA-VQ-A8PH	389	white	Dead	Stage IIIB	'--
+TCGA-IP-7968	'--	white	Alive	Stage IIIB	77
+TCGA-IP-7968	'--	white	Alive	Stage IIIB	77
+TCGA-VQ-A91N	570	not reported	Dead	Stage IV	'--
+TCGA-VQ-A91N	570	not reported	Dead	Stage IV	'--
+TCGA-VQ-A8PE	675	white	Dead	Stage IIIB	422
+TCGA-VQ-A8PE	675	white	Dead	Stage IIIB	422
+TCGA-FP-8209	1811	white	Dead	Stage IB	'--
+TCGA-FP-8209	1811	white	Dead	Stage IB	'--
+TCGA-CG-5727	'--	not reported	Alive	Stage II	2405
+TCGA-CG-5727	'--	not reported	Alive	Stage II	2405
+TCGA-VQ-A8P2	'--	white	Alive	Stage IIIA	1160
+TCGA-VQ-A8P2	'--	white	Alive	Stage IIIA	1160
+TCGA-BR-8372	'--	white	Alive	Stage IIIC	951
+TCGA-BR-8372	'--	white	Alive	Stage IIIC	951
+TCGA-CG-5721	'--	not reported	Alive	Stage IV	183
+TCGA-CG-5721	'--	not reported	Alive	Stage IV	183
+TCGA-HU-A4GC	'--	asian	Alive	Stage IIIB	99
+TCGA-HU-A4GC	'--	asian	Alive	Stage IIIB	99
+TCGA-RD-A8N6	272	white	Dead	Stage IIIA	'--
+TCGA-RD-A8N6	272	white	Dead	Stage IIIA	'--
+TCGA-B7-5816	'--	white	Alive	Stage IIB	812
+TCGA-B7-5816	'--	white	Alive	Stage IIB	812
+TCGA-BR-8676	'--	white	Alive	Stage IIIB	229
+TCGA-BR-8676	'--	white	Alive	Stage IIIB	229
+TCGA-IN-8462	'--	white	Alive	Stage IIB	572
+TCGA-IN-8462	'--	white	Alive	Stage IIB	572
+TCGA-VQ-A8PS	406	white	Dead	Stage IIIA	'--
+TCGA-VQ-A8PS	406	white	Dead	Stage IIIA	'--
+TCGA-D7-A6F2	'--	white	Alive	Stage IB	476
+TCGA-D7-A6F2	'--	white	Alive	Stage IB	476
+TCGA-VQ-A8PF	76	not reported	Dead	Stage IIIB	'--
+TCGA-VQ-A8PF	76	not reported	Dead	Stage IIIB	'--
+TCGA-HU-A4G8	'--	asian	Alive	Stage IIB	690
+TCGA-HU-A4G8	'--	asian	Alive	Stage IIB	690
+TCGA-BR-7703	'--	white	Alive	Stage IA	1100
+TCGA-BR-7703	'--	white	Alive	Stage IA	1100
+TCGA-CD-5804	'--	asian	Alive	'--	0
+TCGA-CD-5804	'--	asian	Alive	'--	0
+TCGA-BR-6457	'--	white	Alive	Stage IIA	416
+TCGA-BR-6457	'--	white	Alive	Stage IIA	416
+TCGA-VQ-A928	174	white	Dead	Stage IV	'--
+TCGA-VQ-A928	174	white	Dead	Stage IV	'--
+TCGA-BR-6564	794	white	Dead	Stage IIIA	25
+TCGA-BR-6564	794	white	Dead	Stage IIIA	25
+TCGA-D7-A6EV	'--	white	Alive	Stage IIB	342
+TCGA-D7-A6EV	'--	white	Alive	Stage IIB	342
+TCGA-D7-6526	'--	white	Alive	Stage IIIA	523
+TCGA-D7-6526	'--	white	Alive	Stage IIIA	523
+TCGA-HU-A4GU	'--	asian	Alive	Stage IIB	200
+TCGA-HU-A4GU	'--	asian	Alive	Stage IIB	200
+TCGA-BR-A4J9	'--	white	Alive	Stage IIA	14
+TCGA-BR-A4J9	'--	white	Alive	Stage IIA	14
+TCGA-HU-A4H5	'--	asian	Alive	Stage IB	724
+TCGA-HU-A4H5	'--	asian	Alive	Stage IB	724
+TCGA-HU-A4GN	'--	asian	Alive	Stage IIA	912
+TCGA-HU-A4GN	'--	asian	Alive	Stage IIA	912
+TCGA-BR-8363	8	white	Dead	Stage IB	'--
+TCGA-BR-8363	8	white	Dead	Stage IB	'--
+TCGA-BR-8678	'--	white	Alive	Stage IB	754
+TCGA-BR-8678	'--	white	Alive	Stage IB	754
+TCGA-D7-A4YT	'--	white	Alive	Stage IIIA	434
+TCGA-D7-A4YT	'--	white	Alive	Stage IIIA	434
+TCGA-BR-8060	348	white	Dead	Stage IIB	40
+TCGA-BR-8060	348	white	Dead	Stage IIB	40
+TCGA-BR-4280	201	white	Dead	Stage III	0
+TCGA-BR-4280	201	white	Dead	Stage III	0
+TCGA-CG-4301	'--	not reported	Alive	Stage IV	92
+TCGA-CG-4301	'--	not reported	Alive	Stage IV	92
+TCGA-RD-A7C1	507	white	Dead	Stage IB	'--
+TCGA-RD-A7C1	507	white	Dead	Stage IB	'--
+TCGA-FP-7829	'--	white	Alive	Stage IIB	594
+TCGA-FP-7829	'--	white	Alive	Stage IIB	594
+TCGA-BR-7958	'--	white	Alive	Stage IIIB	899
+TCGA-BR-7958	'--	white	Alive	Stage IIIB	899
+TCGA-IN-7806	'--	white	Alive	Stage IIB	1106
+TCGA-IN-7806	'--	white	Alive	Stage IIB	1106
+TCGA-KB-A93J	'--	white	Alive	Stage II	1124
+TCGA-KB-A93J	'--	white	Alive	Stage II	1124
+TCGA-CD-8536	'--	asian	Alive	Stage II	378
+TCGA-CD-8536	'--	asian	Alive	Stage II	378
+TCGA-VQ-A8PM	57	white	Dead	Stage IV	'--
+TCGA-VQ-A8PM	57	white	Dead	Stage IV	'--
+TCGA-VQ-A925	138	white	Dead	Stage IIIA	'--
+TCGA-VQ-A925	138	white	Dead	Stage IIIA	'--
+TCGA-HF-7136	'--	not reported	Alive	Stage IIIA	'--
+TCGA-HF-7136	'--	not reported	Alive	Stage IIIA	'--
+TCGA-HU-8249	'--	asian	Alive	Stage IIIA	881
+TCGA-HU-8249	'--	asian	Alive	Stage IIIA	881
+TCGA-D7-A4YV	180	white	Dead	Stage IIB	180
+TCGA-D7-A4YV	180	white	Dead	Stage IIB	180
+TCGA-HF-7134	'--	not reported	Alive	Stage IA	1588
+TCGA-HF-7134	'--	not reported	Alive	Stage IA	1588
+TCGA-BR-6802	'--	white	Alive	Stage IIIA	940
+TCGA-BR-6802	'--	white	Alive	Stage IIIA	940
+TCGA-HU-A4HD	'--	asian	Alive	Stage IIIA	1016
+TCGA-HU-A4HD	'--	asian	Alive	Stage IIIA	1016
+TCGA-BR-4253	124	white	Dead	Stage IIIA	0
+TCGA-BR-4253	124	white	Dead	Stage IIIA	0
+TCGA-BR-7716	'--	white	Alive	Stage IIB	1210
+TCGA-BR-7716	'--	white	Alive	Stage IIB	1210
+TCGA-VQ-A8PC	1407	white	Dead	Stage IIIA	'--
+TCGA-VQ-A8PC	1407	white	Dead	Stage IIIA	'--
+TCGA-BR-7722	466	white	Dead	Stage IIB	5
+TCGA-BR-7722	466	white	Dead	Stage IIB	5
+TCGA-CD-A4MI	358	asian	Dead	Stage IIIA	3
+TCGA-CD-A4MI	358	asian	Dead	Stage IIIA	3
+TCGA-BR-4361	'--	white	Alive	Stage IIIA	0
+TCGA-BR-4361	'--	white	Alive	Stage IIIA	0
+TCGA-BR-4362	'--	white	Alive	'--	0
+TCGA-BR-4362	'--	white	Alive	'--	0
+TCGA-CG-5732	2100	not reported	Dead	Stage IV	1674
+TCGA-CG-5732	2100	not reported	Dead	Stage IV	1674
+TCGA-FP-8099	'--	white	Alive	Stage IIA	519
+TCGA-FP-8099	'--	white	Alive	Stage IIA	519
+TCGA-BR-4184	212	white	Dead	Stage IIIA	0
+TCGA-BR-4184	212	white	Dead	Stage IIIA	0
+TCGA-SW-A7EA	'--	white	Alive	Stage IB	579
+TCGA-SW-A7EA	'--	white	Alive	Stage IB	579
+TCGA-HU-A4H4	'--	asian	Alive	Stage IIB	725
+TCGA-HU-A4H4	'--	asian	Alive	Stage IIB	725
+TCGA-BR-8078	'--	white	Alive	Stage IIB	900
+TCGA-BR-8078	'--	white	Alive	Stage IIB	900
+TCGA-BR-4367	'--	white	Alive	'--	0
+TCGA-BR-4367	'--	white	Alive	'--	0
+TCGA-BR-4257	294	white	Dead	'--	0
+TCGA-BR-4257	294	white	Dead	'--	0
+TCGA-BR-8362	398	white	Dead	Stage IIIC	11
+TCGA-BR-8362	398	white	Dead	Stage IIIC	11
+TCGA-IN-A6RL	406	white	Dead	'--	158
+TCGA-IN-A6RL	406	white	Dead	'--	158
+TCGA-CG-5722	'--	not reported	Alive	Stage IV	30
+TCGA-CG-5722	'--	not reported	Alive	Stage IV	30
+TCGA-CG-5728	'--	not reported	Alive	Stage IB	579
+TCGA-CG-5728	'--	not reported	Alive	Stage IB	579
+TCGA-BR-A4J8	'--	white	Alive	Stage IIIB	411
+TCGA-BR-A4J8	'--	white	Alive	Stage IIIB	411
+TCGA-BR-A4IV	869	asian	Dead	Stage IIIB	411
+TCGA-BR-A4IV	869	asian	Dead	Stage IIIB	411
+TCGA-BR-4292	'--	white	Alive	'--	0
+TCGA-BR-4292	'--	white	Alive	'--	0
+TCGA-BR-8373	'--	white	Alive	Stage IIIA	450
+TCGA-BR-8373	'--	white	Alive	Stage IIIA	450
+TCGA-VQ-A8E2	'--	asian	Alive	Stage IIIB	1319
+TCGA-VQ-A8E2	'--	asian	Alive	Stage IIIB	1319
+TCGA-BR-8058	'--	white	Alive	Stage IIIB	1133
+TCGA-BR-8058	'--	white	Alive	Stage IIIB	1133
+TCGA-HU-A4H3	'--	asian	Alive	Stage IIIC	882
+TCGA-HU-A4H3	'--	asian	Alive	Stage IIIC	882
+TCGA-HU-8245	'--	asian	Alive	Stage IIA	552
+TCGA-HU-8245	'--	asian	Alive	Stage IIA	552
+TCGA-CG-4455	'--	not reported	Alive	Stage II	366
+TCGA-CG-4455	'--	not reported	Alive	Stage II	366
+TCGA-RD-A8N5	1747	white	Dead	Stage IIIA	'--
+TCGA-RD-A8N5	1747	white	Dead	Stage IIIA	'--
+TCGA-IN-A7NT	'--	white	Alive	Stage IIB	323
+TCGA-IN-A7NT	'--	white	Alive	Stage IIB	323
+TCGA-CG-4462	0	not reported	Dead	Stage IV	'--
+TCGA-CG-4462	0	not reported	Dead	Stage IV	'--
+TCGA-VQ-A94O	640	black or african american	Dead	Stage IIIC	'--
+TCGA-VQ-A94O	640	black or african american	Dead	Stage IIIC	'--
+TCGA-D7-A748	132	white	Dead	Stage IV	'--
+TCGA-D7-A748	132	white	Dead	Stage IV	'--
+TCGA-VQ-A8PT	'--	white	Alive	Stage IIIB	900
+TCGA-VQ-A8PT	'--	white	Alive	Stage IIIB	900
+TCGA-VQ-A8DT	'--	not reported	Alive	Stage IIIB	1484
+TCGA-VQ-A8DT	'--	not reported	Alive	Stage IIIB	1484
+TCGA-D7-5579	'--	white	Alive	Stage IIIA	636
+TCGA-D7-5579	'--	white	Alive	Stage IIIA	636
+TCGA-BR-8367	801	white	Dead	Stage IIIB	418
+TCGA-BR-8367	801	white	Dead	Stage IIIB	418
+TCGA-CD-8527	218	asian	Dead	Stage II	2
+TCGA-CD-8527	218	asian	Dead	Stage II	2
+TCGA-HF-7133	'--	not reported	Alive	Stage IV	1918
+TCGA-HF-7133	'--	not reported	Alive	Stage IV	1918
+TCGA-BR-A4CR	'--	white	Alive	Stage IIIC	0
+TCGA-BR-A4CR	'--	white	Alive	Stage IIIC	0
+TCGA-BR-A4CS	45	white	Dead	Stage IIIC	28
+TCGA-BR-A4CS	45	white	Dead	Stage IIIC	28
+TCGA-BR-8483	'--	white	Alive	Stage IIIA	164
+TCGA-BR-8483	'--	white	Alive	Stage IIIA	164
+TCGA-RD-A8MV	'--	white	Alive	Stage IIIB	3720
+TCGA-RD-A8MV	'--	white	Alive	Stage IIIB	3720
+TCGA-CD-8532	354	asian	Dead	Stage II	3
+TCGA-CD-8532	354	asian	Dead	Stage II	3
+TCGA-VQ-A8P8	'--	black or african american	Alive	Stage IIB	942
+TCGA-VQ-A8P8	'--	black or african american	Alive	Stage IIB	942
+TCGA-D7-6522	'--	white	Alive	Stage IB	566
+TCGA-D7-6522	'--	white	Alive	Stage IB	566
+TCGA-D7-8572	'--	white	Alive	Stage IIB	511
+TCGA-D7-8572	'--	white	Alive	Stage IIB	511
+TCGA-CG-4476	'--	not reported	Alive	Stage IIIC	0
+TCGA-CG-4476	'--	not reported	Alive	Stage IIIC	0
+TCGA-CD-5813	377	asian	Dead	Stage II	12
+TCGA-CD-5813	377	asian	Dead	Stage II	12
+TCGA-CG-5719	'--	not reported	Alive	Stage IV	31
+TCGA-CG-5719	'--	not reported	Alive	Stage IV	31
+TCGA-KB-A6F7	'--	not reported	Alive	Stage IB	1935
+TCGA-KB-A6F7	'--	not reported	Alive	Stage IB	1935
+TCGA-F1-A448	'--	white	Alive	Stage IIIB	647
+TCGA-F1-A448	'--	white	Alive	Stage IIIB	647
+TCGA-R5-A7ZE	554	white	Dead	Stage IIIA	'--
+TCGA-R5-A7ZE	554	white	Dead	Stage IIIA	'--
+TCGA-CD-5800	'--	asian	Alive	Stage II	400
+TCGA-CD-5800	'--	asian	Alive	Stage II	400
+TCGA-HU-A4G6	'--	asian	Alive	Stage IA	738
+TCGA-HU-A4G6	'--	asian	Alive	Stage IA	738
+TCGA-BR-A4CQ	'--	white	Alive	Stage IIIA	1064
+TCGA-BR-A4CQ	'--	white	Alive	Stage IIIA	1064
+TCGA-CD-8531	'--	asian	Alive	Stage IIIA	383
+TCGA-CD-8531	'--	asian	Alive	Stage IIIA	383
+TCGA-HU-A4HB	477	asian	Dead	Stage IIB	268
+TCGA-HU-A4HB	477	asian	Dead	Stage IIB	268
+TCGA-CG-5725	457	not reported	Dead	Stage IB	'--
+TCGA-CG-5725	457	not reported	Dead	Stage IB	'--
+TCGA-BR-8365	533	white	Dead	Stage IIA	90
+TCGA-BR-8365	533	white	Dead	Stage IIA	90
+TCGA-VQ-A91V	'--	not reported	Alive	Stage IIIA	1297
+TCGA-VQ-A91V	'--	not reported	Alive	Stage IIIA	1297
+TCGA-D7-A4YY	'--	white	Alive	Stage IIIB	419
+TCGA-D7-A4YY	'--	white	Alive	Stage IIIB	419
+TCGA-VQ-A91U	52	asian	Dead	Stage IIIA	'--
+TCGA-VQ-A91U	52	asian	Dead	Stage IIIA	'--
+TCGA-CG-4440	122	not reported	Dead	Stage IV	'--
+TCGA-CG-4440	122	not reported	Dead	Stage IV	'--
+TCGA-BR-6452	'--	white	Alive	Stage IIA	1055
+TCGA-BR-6452	'--	white	Alive	Stage IIA	1055
+TCGA-BR-4370	'--	white	Alive	'--	0
+TCGA-BR-4370	'--	white	Alive	'--	0
+TCGA-BR-A4QI	652	white	Dead	Stage IIA	415
+TCGA-BR-A4QI	652	white	Dead	Stage IIA	415
+TCGA-BR-A4QL	491	white	Dead	Stage IIIB	352
+TCGA-BR-A4QL	491	white	Dead	Stage IIIB	352
+TCGA-D7-5578	'--	white	Alive	Stage IIIA	385
+TCGA-D7-5578	'--	white	Alive	Stage IIIA	385
+TCGA-VQ-AA6G	792	white	Dead	Stage IIA	'--
+TCGA-VQ-AA6G	792	white	Dead	Stage IIA	'--
+TCGA-CD-A4MH	'--	asian	Alive	Stage IIA	371
+TCGA-CD-A4MH	'--	asian	Alive	Stage IIA	371
+TCGA-BR-4371	'--	white	Alive	'--	0
+TCGA-BR-4371	'--	white	Alive	'--	0
+TCGA-BR-4363	'--	white	Alive	'--	0
+TCGA-BR-4363	'--	white	Alive	'--	0
+TCGA-RD-A8N1	'--	white	Alive	Stage IIIB	3519
+TCGA-RD-A8N1	'--	white	Alive	Stage IIIB	3519
+TCGA-CG-4304	'--	not reported	Alive	Stage IB	'--
+TCGA-CG-4304	'--	not reported	Alive	Stage IB	'--
+TCGA-D7-A6ET	'--	white	Alive	Stage IIIB	804
+TCGA-D7-A6ET	'--	white	Alive	Stage IIIB	804
+TCGA-D7-8579	'--	white	Alive	Stage IIB	636
+TCGA-D7-8579	'--	white	Alive	Stage IIB	636
+TCGA-VQ-AA64	560	white	Dead	Stage IIIB	'--
+TCGA-VQ-AA64	560	white	Dead	Stage IIIB	'--
+TCGA-CD-5803	341	asian	Dead	Stage II	2
+TCGA-CD-5803	341	asian	Dead	Stage II	2
+TCGA-CG-4444	'--	not reported	Alive	Stage IIIA	1431
+TCGA-CG-4444	'--	not reported	Alive	Stage IIIA	1431
+TCGA-CG-4474	'--	not reported	Alive	Stage IV	0
+TCGA-CG-4474	'--	not reported	Alive	Stage IV	0
+TCGA-HF-A5NB	'--	not reported	Alive	Stage IIIC	928
+TCGA-HF-A5NB	'--	not reported	Alive	Stage IIIC	928
+TCGA-BR-A4J7	'--	asian	Alive	Stage IIB	989
+TCGA-BR-A4J7	'--	asian	Alive	Stage IIB	989
+TCGA-BR-6454	'--	white	Alive	Stage IIA	0
+TCGA-BR-6454	'--	white	Alive	Stage IIA	0
+TCGA-D7-8570	'--	white	Alive	Stage IIIB	752
+TCGA-D7-8570	'--	white	Alive	Stage IIIB	752
+TCGA-BR-8285	17	white	Dead	Stage IIIC	8
+TCGA-BR-8285	17	white	Dead	Stage IIIC	8
+TCGA-BR-6709	370	white	Dead	Stage IIIB	38
+TCGA-BR-6709	370	white	Dead	Stage IIIB	38
+TCGA-BR-8687	250	white	Dead	Stage IIIC	19
+TCGA-BR-8687	250	white	Dead	Stage IIIC	19
+TCGA-D7-8576	446	white	Dead	Stage IIIB	212
+TCGA-D7-8576	446	white	Dead	Stage IIIB	212
+TCGA-MX-A663	300	white	Dead	Stage IIA	131
+TCGA-MX-A663	300	white	Dead	Stage IIA	131
+TCGA-BR-8590	284	white	Dead	Stage IIIC	65
+TCGA-BR-8590	284	white	Dead	Stage IIIC	65
+TCGA-IN-A6RO	'--	asian	Dead	Stage IA	'--
+TCGA-IN-A6RO	'--	asian	Dead	Stage IA	'--
+TCGA-BR-8591	'--	white	Alive	Stage IIIC	856
+TCGA-BR-8591	'--	white	Alive	Stage IIIC	856
+TCGA-BR-8370	'--	white	Alive	Stage IIIB	101
+TCGA-BR-8370	'--	white	Alive	Stage IIIB	101
+TCGA-B7-A5TN	'--	white	Alive	Stage IIB	287
+TCGA-B7-A5TN	'--	white	Alive	Stage IIB	287
+TCGA-D7-A4Z0	'--	white	Alive	Stage IIB	449
+TCGA-D7-A4Z0	'--	white	Alive	Stage IIB	449
+TCGA-D7-5577	782	white	Dead	Stage IIIA	376
+TCGA-D7-5577	782	white	Dead	Stage IIIA	376
+TCGA-D7-A6EZ	618	white	Dead	Stage IIIA	618
+TCGA-D7-A6EZ	618	white	Dead	Stage IIIA	618
+TCGA-BR-A4IZ	273	asian	Dead	Stage IIIB	24
+TCGA-BR-A4IZ	273	asian	Dead	Stage IIIB	24
+TCGA-F1-A72C	'--	asian	Alive	Stage IIA	346
+TCGA-F1-A72C	'--	asian	Alive	Stage IIA	346
+TCGA-MX-A5UJ	'--	white	Alive	Stage IIIA	600
+TCGA-MX-A5UJ	'--	white	Alive	Stage IIIA	600
+TCGA-HU-8602	'--	asian	Alive	Stage IIB	679
+TCGA-HU-8602	'--	asian	Alive	Stage IIB	679
+TCGA-CD-8535	'--	asian	Alive	Stage IIIA	390
+TCGA-CD-8535	'--	asian	Alive	Stage IIIA	390
+TCGA-BR-8690	'--	white	Alive	Stage IIIB	325
+TCGA-BR-8690	'--	white	Alive	Stage IIIB	325
+TCGA-CG-5733	641	not reported	Dead	Stage IIIA	'--
+TCGA-CG-5733	641	not reported	Dead	Stage IIIA	'--
+TCGA-VQ-A8PZ	'--	white	Alive	Stage II	2233
+TCGA-VQ-A8PZ	'--	white	Alive	Stage II	2233
+TCGA-CG-4442	'--	not reported	Alive	Stage IB	0
+TCGA-CG-4442	'--	not reported	Alive	Stage IB	0
+TCGA-R5-A804	140	black or african american	Dead	Stage IV	'--
+TCGA-R5-A804	140	black or african american	Dead	Stage IV	'--
+TCGA-F1-6874	'--	white	Alive	Stage IB	440
+TCGA-F1-6874	'--	white	Alive	Stage IB	440
+TCGA-VQ-AA68	'--	white	Alive	Stage IIIC	1328
+TCGA-VQ-AA68	'--	white	Alive	Stage IIIC	1328
+TCGA-B7-5818	'--	white	Alive	Stage IB	356
+TCGA-B7-5818	'--	white	Alive	Stage IB	356
+TCGA-3M-AB47	'--	white	Dead	Stage IIIB	'--
+TCGA-3M-AB47	'--	white	Dead	Stage IIIB	'--
+TCGA-HU-A4G2	'--	asian	Alive	Stage IIB	739
+TCGA-HU-A4G2	'--	asian	Alive	Stage IIB	739
+TCGA-VQ-A91Z	'--	white	Alive	Stage IIIA	1690
+TCGA-VQ-A91Z	'--	white	Alive	Stage IIIA	1690
+TCGA-HU-A4GJ	'--	asian	Alive	Stage IIIC	650
+TCGA-HU-A4GJ	'--	asian	Alive	Stage IIIC	650
+TCGA-BR-6453	'--	white	Alive	Stage IIA	485
+TCGA-BR-6453	'--	white	Alive	Stage IIA	485
+TCGA-CD-8526	'--	asian	Alive	Stage IIIA	381
+TCGA-CD-8526	'--	asian	Alive	Stage IIIA	381
+TCGA-BR-6705	779	white	Dead	Stage IIIB	421
+TCGA-BR-6705	779	white	Dead	Stage IIIB	421
+TCGA-VQ-AA6A	'--	white	Alive	Stage IIIC	1184
+TCGA-VQ-AA6A	'--	white	Alive	Stage IIIC	1184
+TCGA-VQ-A91X	289	white	Dead	Stage IIIB	'--
+TCGA-VQ-A91X	289	white	Dead	Stage IIIB	'--
+TCGA-BR-7901	105	white	Dead	Stage IIB	29
+TCGA-BR-7901	105	white	Dead	Stage IIB	29
+TCGA-HU-8244	'--	asian	Alive	Stage IA	742
+TCGA-HU-8244	'--	asian	Alive	Stage IA	742
+TCGA-BR-8381	'--	white	Alive	Stage IIB	224
+TCGA-BR-8381	'--	white	Alive	Stage IIB	224
+TCGA-R5-A7ZF	259	black or african american	Dead	Stage IV	'--
+TCGA-R5-A7ZF	259	black or african american	Dead	Stage IV	'--
+TCGA-BR-7959	'--	white	Alive	Stage IIIA	1010
+TCGA-BR-7959	'--	white	Alive	Stage IIIA	1010
+TCGA-VQ-A8E0	562	black or african american	Dead	Stage IIIA	'--
+TCGA-VQ-A8E0	562	black or african american	Dead	Stage IIIA	'--
+TCGA-BR-4255	124	white	Dead	Stage IIIA	0
+TCGA-BR-4255	124	white	Dead	Stage IIIA	0
+TCGA-D7-A6EX	'--	white	Alive	Stage IIIA	344
+TCGA-D7-A6EX	'--	white	Alive	Stage IIIA	344
+TCGA-BR-8361	'--	white	Alive	Stage IIIC	946
+TCGA-BR-8361	'--	white	Alive	Stage IIIC	946
+TCGA-CG-5726	881	not reported	Dead	Stage IA	'--
+TCGA-CG-5726	881	not reported	Dead	Stage IA	'--
+TCGA-BR-4267	188	white	Dead	Stage IB	0
+TCGA-BR-4267	188	white	Dead	Stage IB	0
+TCGA-BR-6801	'--	white	Alive	Stage IIA	1223
+TCGA-BR-6801	'--	white	Alive	Stage IIA	1223
+TCGA-D7-6820	'--	white	Alive	Stage IIB	344
+TCGA-D7-6820	'--	white	Alive	Stage IIB	344
+TCGA-VQ-A8DZ	396	black or african american	Dead	Stage IV	'--
+TCGA-VQ-A8DZ	396	black or african american	Dead	Stage IV	'--
+TCGA-BR-6566	'--	white	Alive	Stage IIA	997
+TCGA-BR-6566	'--	white	Alive	Stage IIA	997
+TCGA-IN-A6RN	'--	white	Alive	Stage IIA	594
+TCGA-IN-A6RN	'--	white	Alive	Stage IIA	594
+TCGA-CG-4441	426	not reported	Dead	Stage IIIA	'--
+TCGA-CG-4441	426	not reported	Dead	Stage IIIA	'--
+TCGA-VQ-AA6K	378	white	Dead	Stage IIIC	'--
+TCGA-VQ-AA6K	378	white	Dead	Stage IIIC	'--
+TCGA-R5-A7ZI	'--	white	Alive	Stage IV	2267
+TCGA-R5-A7ZI	'--	white	Alive	Stage IV	2267
+TCGA-BR-6456	526	white	Dead	Stage IIB	308
+TCGA-BR-6456	526	white	Dead	Stage IIB	308
+TCGA-IN-A6RR	205	white	Dead	'--	'--
+TCGA-IN-A6RR	205	white	Dead	'--	'--
+TCGA-BR-6455	422	white	Dead	Stage IIB	399
+TCGA-BR-6455	422	white	Dead	Stage IIB	399
+TCGA-VQ-A91Y	296	white	Dead	Stage IIIC	'--
+TCGA-VQ-A91Y	296	white	Dead	Stage IIIC	'--
+TCGA-BR-6852	'--	white	Alive	Stage IIA	1367
+TCGA-BR-6852	'--	white	Alive	Stage IIA	1367
+TCGA-D7-6519	'--	white	Alive	'--	625
+TCGA-D7-6519	'--	white	Alive	'--	625
+TCGA-BR-8487	'--	white	Alive	Stage IIA	34
+TCGA-BR-8487	'--	white	Alive	Stage IIA	34
+TCGA-FP-8210	153	asian	Dead	Stage IIIA	'--
+TCGA-FP-8210	153	asian	Dead	Stage IIIA	'--
+TCGA-BR-A4IU	'--	asian	Alive	Stage IIIA	838
+TCGA-BR-A4IU	'--	asian	Alive	Stage IIIA	838
+TCGA-BR-8297	'--	white	Alive	Stage IIIC	225
+TCGA-BR-8297	'--	white	Alive	Stage IIIC	225
+TCGA-FP-8631	'--	white	Alive	Stage IIIA	17
+TCGA-FP-8631	'--	white	Alive	Stage IIIA	17
+TCGA-CG-4469	215	not reported	Dead	Stage IV	'--
+TCGA-CG-4469	215	not reported	Dead	Stage IV	'--
+TCGA-VQ-A8PU	832	white	Dead	Stage IIIA	820
+TCGA-VQ-A8PU	832	white	Dead	Stage IIIA	820
+TCGA-BR-8059	439	white	Dead	Stage III	25
+TCGA-BR-8059	439	white	Dead	Stage III	25
+TCGA-BR-7704	'--	white	Alive	Stage II	1072
+TCGA-BR-7704	'--	white	Alive	Stage II	1072
+TCGA-CD-8533	'--	asian	Alive	Stage II	468
+TCGA-CD-8533	'--	asian	Alive	Stage II	468
+TCGA-CD-A48C	353	asian	Dead	Stage IIB	4
+TCGA-CD-A48C	353	asian	Dead	Stage IIB	4
+TCGA-IN-A6RP	'--	white	Alive	'--	196
+TCGA-IN-A6RP	'--	white	Alive	'--	196
+TCGA-BR-A44U	422	white	Dead	Stage IIIB	35
+TCGA-BR-A44U	422	white	Dead	Stage IIIB	35
+TCGA-RD-A8N4	'--	white	Alive	Stage IIIA	2171
+TCGA-RD-A8N4	'--	white	Alive	Stage IIIA	2171
+TCGA-BR-8380	'--	white	Dead	Stage IIIC	21
+TCGA-BR-8380	'--	white	Dead	Stage IIIC	21
+TCGA-BR-8486	'--	white	Alive	Stage IA	0
+TCGA-BR-8486	'--	white	Alive	Stage IA	0
+TCGA-FP-8211	'--	white	Alive	Stage IIB	413
+TCGA-FP-8211	'--	white	Alive	Stage IIB	413
+TCGA-CD-8534	'--	asian	Alive	Stage II	367
+TCGA-CD-8534	'--	asian	Alive	Stage II	367
+TCGA-HU-8604	'--	asian	Alive	Stage IIA	694
+TCGA-HU-8604	'--	asian	Alive	Stage IIA	694
+TCGA-CD-A487	'--	asian	Alive	Stage IIB	374
+TCGA-CD-A487	'--	asian	Alive	Stage IIB	374
+TCGA-B7-A5TI	'--	white	Alive	Stage IIIC	595
+TCGA-B7-A5TI	'--	white	Alive	Stage IIIC	595
+TCGA-VQ-A8E3	661	white	Dead	Stage IIA	'--
+TCGA-VQ-A8E3	661	white	Dead	Stage IIA	'--
+TCGA-KB-A6F5	'--	not reported	Alive	Stage IIIA	169
+TCGA-KB-A6F5	'--	not reported	Alive	Stage IIIA	169
+TCGA-HU-A4GT	'--	asian	Alive	Stage IIA	198
+TCGA-HU-A4GT	'--	asian	Alive	Stage IIA	198
+TCGA-HU-8238	'--	asian	Alive	'--	46
+TCGA-HU-8238	'--	asian	Alive	'--	46
+TCGA-BR-4183	201	white	Dead	Stage IIIA	0
+TCGA-BR-4183	201	white	Dead	Stage IIIA	0
+TCGA-IN-AB1X	'--	white	Alive	Stage IIA	411
+TCGA-IN-AB1X	'--	white	Alive	Stage IIA	411
+TCGA-BR-8592	191	white	Dead	Stage IIIB	6
+TCGA-BR-8592	191	white	Dead	Stage IIIB	6
+TCGA-BR-8360	'--	white	Alive	Stage IIA	188
+TCGA-BR-8360	'--	white	Alive	Stage IIA	188
+TCGA-R5-A7O7	'--	white	Alive	Stage IV	1389
+TCGA-R5-A7O7	'--	white	Alive	Stage IV	1389
+TCGA-BR-8081	'--	white	Alive	Stage IIB	981
+TCGA-BR-8081	'--	white	Alive	Stage IIB	981
+TCGA-IN-A6RI	'--	white	Alive	Stage I	559
+TCGA-IN-A6RI	'--	white	Alive	Stage I	559
+TCGA-CD-5798	'--	asian	Alive	Stage II	408
+TCGA-CD-5798	'--	asian	Alive	Stage II	408

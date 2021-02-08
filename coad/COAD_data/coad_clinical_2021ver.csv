@@ -1,0 +1,460 @@
+case_submitter_id	days_to_death	race	vital_status	ajcc_pathologic_stage	days_to_last_follow_up
+TCGA-F4-6569	'--	white	Alive	Stage I	1087
+TCGA-AA-3552	396	not reported	Dead	Stage IIIC	0
+TCGA-AA-3695	'--	not reported	Alive	Stage IV	0
+TCGA-AA-3543	'--	not reported	Alive	Stage I	30
+TCGA-CM-5863	'--	white	Alive	Stage IIIB	457
+TCGA-DM-A1DA	228	white	Dead	Stage IIIC	228
+TCGA-AA-3837	'--	not reported	Alive	Stage IIA	1186
+TCGA-AM-5820	'--	white	Alive	Stage IVA	14
+TCGA-AA-3522	'--	not reported	Alive	Stage IIA	1127
+TCGA-A6-2675	'--	white	Alive	Stage IIA	1321
+TCGA-AA-3496	'--	not reported	Alive	Stage II	31
+TCGA-CM-6169	'--	black or african american	Alive	Stage IIA	396
+TCGA-AA-3980	'--	not reported	Alive	Stage I	242
+TCGA-AA-A01R	'--	not reported	Alive	Stage III	1065
+TCGA-AZ-5403	1910	white	Dead	Stage II	'--
+TCGA-A6-2680	'--	black or african american	Alive	Stage II	1068
+TCGA-CM-6164	'--	white	Alive	Stage IIA	883
+TCGA-D5-6926	'--	white	Alive	Stage IIIB	275
+TCGA-AZ-4681	'--	white	Alive	Stage IIA	3247
+TCGA-AA-3975	'--	not reported	Alive	Stage I	1036
+TCGA-AA-A00R	'--	not reported	Alive	Stage I	30
+TCGA-AY-A69D	'--	black or african american	Alive	Stage IIA	543
+TCGA-A6-2672	'--	white	Alive	Stage IIIB	1419
+TCGA-CA-6715	'--	asian	Alive	Stage IIIB	383
+TCGA-G4-6304	'--	white	Alive	Stage IIB	1631
+TCGA-AA-3562	'--	not reported	Alive	Stage IIIC	608
+TCGA-AA-3710	'--	not reported	Alive	Stage IIA	821
+TCGA-AA-3854	'--	not reported	Alive	Stage I	1096
+TCGA-A6-5660	'--	black or african american	Alive	Stage IIIC	888
+TCGA-CK-5916	643	white	Dead	Stage I	'--
+TCGA-AA-3818	30	not reported	Dead	Stage IIA	'--
+TCGA-D5-7000	'--	white	Alive	Stage I	312
+TCGA-AA-A01C	'--	not reported	Alive	Stage IIIA	457
+TCGA-AD-A5EJ	'--	black or african american	Alive	Stage IIA	0
+TCGA-AA-3549	'--	not reported	Alive	Stage I	639
+TCGA-G4-6321	'--	white	Alive	Stage III	672
+TCGA-AA-3869	822	not reported	Dead	Stage IV	0
+TCGA-CA-6717	'--	asian	Alive	Stage IIA	388
+TCGA-AA-3680	335	not reported	Dead	Stage IV	0
+TCGA-G4-6298	0	black or african american	Dead	Stage IIIB	'--
+TCGA-A6-5661	'--	black or african american	Alive	Stage IIA	1020
+TCGA-CA-5254	'--	asian	Alive	Stage IIA	386
+TCGA-G4-6310	'--	white	Alive	Stage IIIB	1935
+TCGA-AA-3509	'--	not reported	Alive	Stage II	1915
+TCGA-AA-3956	'--	not reported	Alive	Stage IIA	1035
+TCGA-A6-6781	'--	white	Alive	Stage IIIC	598
+TCGA-D5-5541	'--	white	Alive	Stage IIIB	1701
+TCGA-AA-3713	'--	not reported	Alive	Stage IV	579
+TCGA-A6-5665	'--	white	Alive	Stage IIA	671
+TCGA-A6-5657	'--	black or african american	Alive	Stage IIIB	962
+TCGA-A6-2683	504	white	Dead	Stage IV	472
+TCGA-CM-5344	'--	white	Alive	Stage IIIB	670
+TCGA-AA-3875	'--	not reported	Alive	Stage I	549
+TCGA-AA-A02R	670	not reported	Dead	Stage IIA	'--
+TCGA-AA-A02O	'--	not reported	Alive	Stage II	28
+TCGA-F4-6854	'--	white	Alive	Stage IIA	16
+TCGA-A6-2677	740	white	Dead	Stage IIIC	541
+TCGA-QG-A5YV	'--	black or african american	Alive	Stage IIIC	1301
+TCGA-AA-3519	'--	not reported	Alive	Stage III	276
+TCGA-DM-A0X9	'--	white	Alive	Stage IIA	3641
+TCGA-CK-5914	'--	white	Alive	Stage IIIB	669
+TCGA-D5-6922	'--	white	Alive	Stage IIIA	308
+TCGA-AM-5821	'--	white	Alive	Stage IIA	28
+TCGA-CK-5915	'--	white	Alive	Stage I	0
+TCGA-AA-3819	'--	not reported	Alive	Stage IIA	761
+TCGA-DM-A1D9	'--	white	Alive	Stage IIA	4270
+TCGA-G4-6306	'--	white	Alive	'--	1359
+TCGA-F4-6703	'--	white	Alive	Stage IIA	1456
+TCGA-AA-3939	'--	not reported	Alive	Stage IIA	395
+TCGA-A6-A567	1881	black or african american	Dead	Stage IV	'--
+TCGA-AA-A00Q	'--	not reported	Alive	Stage IIIB	1278
+TCGA-CM-4747	'--	white	Alive	Stage IVA	761
+TCGA-A6-4107	'--	white	Alive	Stage IIIB	987
+TCGA-QG-A5Z1	256	black or african american	Dead	Stage IIIB	202
+TCGA-AA-3544	'--	not reported	Alive	Stage I	426
+TCGA-AD-6889	2532	asian	Dead	Stage IIA	2056
+TCGA-D5-6924	'--	white	Alive	Stage IIA	435
+TCGA-AA-3531	'--	not reported	Alive	Stage IIA	1035
+TCGA-CM-6162	'--	white	Alive	Stage IIIB	365
+TCGA-CA-5256	'--	asian	Alive	Stage IIA	379
+TCGA-CM-5349	'--	white	Alive	Stage IIA	915
+TCGA-AD-6548	'--	white	Alive	Stage I	650
+TCGA-CM-6674	'--	white	Alive	Stage IIA	394
+TCGA-AA-3846	'--	not reported	Alive	Stage IIA	518
+TCGA-5M-AAT4	49	black or african american	Dead	Stage IV	'--
+TCGA-AA-3989	242	not reported	Dead	Stage IV	0
+TCGA-AA-A004	'--	not reported	Alive	Stage IIA	424
+TCGA-CA-6719	'--	asian	Alive	Stage IIA	435
+TCGA-G4-6299	'--	white	Alive	Stage IIIC	2268
+TCGA-DM-A1DB	1348	white	Dead	Stage IIA	1348
+TCGA-G4-6320	'--	white	Alive	Stage III	804
+TCGA-CK-6747	'--	white	Alive	Stage IIA	820
+TCGA-AA-3955	'--	not reported	Alive	Stage IIIB	638
+TCGA-T9-A92H	'--	black or african american	Alive	Stage IIA	362
+TCGA-A6-6654	'--	white	Alive	Stage IIIB	726
+TCGA-AA-3976	'--	not reported	Alive	Stage IIIA	791
+TCGA-AA-3492	1	not reported	Dead	Stage II	0
+TCGA-DM-A282	'--	white	Alive	Stage IIA	4233
+TCGA-AA-3833	'--	not reported	Alive	Stage IIA	485
+TCGA-AA-3848	306	not reported	Dead	Stage IIIC	30
+TCGA-A6-6652	'--	black or african american	Alive	Stage IVA	751
+TCGA-A6-A56B	1711	black or african american	Dead	Stage IIIB	1595
+TCGA-A6-6137	'--	white	Alive	Stage IIIB	824
+TCGA-D5-6537	146	white	Dead	Stage IIIB	137
+TCGA-CM-4744	'--	white	Alive	Stage I	609
+TCGA-G4-6586	'--	white	Alive	Stage IIA	1089
+TCGA-AA-A00J	'--	not reported	Alive	Stage IIIB	549
+TCGA-QG-A5YW	'--	black or african american	Alive	Stage IIIC	896
+TCGA-F4-6806	'--	white	Alive	Stage I	1260
+TCGA-CM-6680	'--	white	Alive	Stage IIIB	366
+TCGA-CA-5797	'--	asian	Alive	Stage IIA	383
+TCGA-A6-A566	758	black or african american	Dead	Stage IIIB	'--
+TCGA-AA-A01F	'--	not reported	Alive	Stage IIIB	974
+TCGA-D5-6531	'--	white	Alive	Stage IIA	540
+TCGA-CK-6746	'--	white	Alive	Stage IIB	0
+TCGA-F4-6570	188	white	Dead	Stage IIA	0
+TCGA-CM-6161	'--	white	Alive	Stage I	457
+TCGA-DM-A28H	'--	white	Alive	Stage IIIC	3561
+TCGA-AA-3850	0	not reported	Dead	Stage I	'--
+TCGA-CK-6748	'--	white	Alive	Stage IV	61
+TCGA-AZ-4616	156	white	Dead	Stage IV	'--
+TCGA-AA-A02Y	'--	not reported	Alive	Stage I	1216
+TCGA-G4-6303	2003	white	Dead	Stage IV	1882
+TCGA-AD-6890	'--	white	Alive	'--	746
+TCGA-AA-3982	'--	not reported	Alive	Stage IIIB	822
+TCGA-F4-6809	403	white	Dead	Stage IVA	39
+TCGA-AZ-6600	368	black or african american	Dead	Stage IV	'--
+TCGA-AZ-5407	'--	white	Alive	Stage I	2683
+TCGA-AA-A00K	'--	not reported	Alive	Stage IIA	549
+TCGA-AU-6004	'--	white	Alive	Stage I	824
+TCGA-CM-6170	'--	white	Alive	Stage I	457
+TCGA-AA-A02H	61	not reported	Dead	Stage IV	'--
+TCGA-G4-6294	858	white	Dead	Stage IV	'--
+TCGA-AA-3506	'--	not reported	Alive	Stage I	1765
+TCGA-CM-6676	'--	white	Alive	Stage I	337
+TCGA-AA-3555	'--	not reported	Alive	Stage IIA	911
+TCGA-AA-3715	579	not reported	Dead	Stage II	30
+TCGA-AA-A01I	'--	not reported	Alive	Stage I	943
+TCGA-AA-A01S	'--	not reported	Alive	Stage III	31
+TCGA-D5-6530	'--	white	Alive	Stage I	621
+TCGA-A6-5659	'--	white	Alive	Stage I	926
+TCGA-AA-3966	'--	not reported	Alive	Stage IIA	61
+TCGA-DM-A1HA	'--	white	Alive	Stage IIIC	2600
+TCGA-AA-3972	'--	not reported	Alive	Stage IV	1551
+TCGA-G4-6295	'--	white	Alive	Stage II	254
+TCGA-CM-4750	'--	white	Alive	Stage IIIA	244
+TCGA-D5-6534	'--	white	Alive	Stage IIA	1316
+TCGA-AA-3986	'--	not reported	Alive	Stage I	580
+TCGA-AA-3502	'--	not reported	Alive	Stage I	1065
+TCGA-AY-6386	'--	black or african american	Alive	Stage IIIB	542
+TCGA-CK-4951	2134	white	Dead	Stage IIA	2134
+TCGA-D5-6927	'--	white	Alive	Stage IIA	287
+TCGA-AA-3660	'--	not reported	Alive	Stage II	2375
+TCGA-WS-AB45	'--	black or african american	Alive	Stage IIA	2130
+TCGA-AA-A02F	'--	not reported	Alive	Stage IV	1216
+TCGA-CK-4947	'--	white	Alive	Stage IIIB	534
+TCGA-CM-6171	'--	white	Alive	Stage I	427
+TCGA-A6-6649	'--	white	Alive	Stage IIIB	735
+TCGA-AA-3518	'--	not reported	Alive	Stage IIA	31
+TCGA-AD-6899	176	white	Dead	Stage IIIC	48
+TCGA-AA-3684	'--	not reported	Alive	Stage IV	0
+TCGA-CK-6751	'--	white	Alive	Stage I	518
+TCGA-AA-3511	'--	not reported	Alive	Stage II	212
+TCGA-AA-3712	'--	not reported	Alive	Stage III	0
+TCGA-G4-6314	'--	white	Alive	Stage IV	1093
+TCGA-DM-A280	236	white	Dead	Stage IIA	236
+TCGA-AA-3685	'--	not reported	Alive	Stage II	1127
+TCGA-AZ-6605	159	white	Dead	Stage IIIB	'--
+TCGA-NH-A50U	334	black or african american	Dead	Stage IVA	'--
+TCGA-AA-3514	'--	not reported	Alive	Stage I	31
+TCGA-DM-A28M	'--	white	Alive	Stage IIA	2895
+TCGA-DM-A1D7	405	white	Dead	Stage IIA	405
+TCGA-AA-3558	'--	not reported	Alive	Stage I	638
+TCGA-AA-3530	'--	not reported	Alive	Stage I	580
+TCGA-AA-3554	'--	not reported	Alive	Stage IIA	546
+TCGA-AA-3553	'--	not reported	Alive	Stage I	730
+TCGA-F4-6459	262	white	Dead	Stage IIIB	0
+TCGA-CM-6167	'--	black or african american	Alive	Stage IIIC	456
+TCGA-AA-3663	'--	not reported	Alive	Stage II	212
+TCGA-CM-5864	'--	white	Alive	Stage I	457
+TCGA-DM-A0XD	743	white	Dead	Stage IIA	'--
+TCGA-AA-A01G	'--	not reported	Alive	Stage IIA	365
+TCGA-AA-3855	'--	not reported	Alive	Stage I	975
+TCGA-AD-A5EK	'--	black or african american	Alive	Stage I	500
+TCGA-AA-3968	'--	not reported	Alive	Stage I	669
+TCGA-AA-3947	'--	not reported	Alive	Stage IIB	1004
+TCGA-G4-6311	'--	white	Alive	Stage III	1199
+TCGA-D5-6529	'--	white	Alive	Stage IIA	614
+TCGA-DM-A1HB	'--	white	Alive	Stage IIIB	4126
+TCGA-AA-A00U	'--	not reported	Alive	Stage IIIB	518
+TCGA-AA-A00A	'--	not reported	Alive	Stage IIA	1157
+TCGA-F4-6805	'--	white	Alive	Stage IIA	1047
+TCGA-F4-6856	'--	white	Alive	Stage I	1074
+TCGA-G4-6588	'--	white	Alive	Stage IIA	796
+TCGA-A6-5667	'--	white	Alive	Stage IIIB	887
+TCGA-AA-3877	'--	not reported	Alive	Stage I	943
+TCGA-AA-3667	'--	not reported	Alive	Stage I	426
+TCGA-CM-6677	'--	white	Alive	Stage IIA	337
+TCGA-AZ-6599	206	white	Dead	Stage I	'--
+TCGA-AZ-6598	1503	white	Dead	Stage II	'--
+TCGA-CM-5348	'--	white	Alive	Stage IIIB	699
+TCGA-AA-3973	'--	not reported	Alive	Stage IV	397
+TCGA-AY-4071	29	white	Dead	Stage I	'--
+TCGA-4N-A93T	'--	black or african american	Alive	Stage IIIB	146
+TCGA-AZ-4615	'--	white	Alive	Stage IIIB	1002
+TCGA-D5-5537	1381	white	Dead	'--	456
+TCGA-AA-3870	'--	not reported	Alive	Stage IV	912
+TCGA-AA-A01Q	'--	not reported	Alive	Stage II	31
+TCGA-D5-6540	'--	white	Alive	Stage I	491
+TCGA-AA-3516	396	not reported	Dead	Stage III	0
+TCGA-CM-6678	'--	white	Alive	Stage IVA	335
+TCGA-QG-A5YX	'--	black or african american	Alive	Stage IIA	1003
+TCGA-DM-A28G	1849	white	Dead	Stage IIA	1849
+TCGA-AA-3529	0	not reported	Dead	Stage IIIC	'--
+TCGA-D5-6931	'--	white	Alive	Stage IIIC	365
+TCGA-AZ-4313	'--	white	Alive	Stage I	2310
+TCGA-CM-5868	'--	white	Alive	Stage IVA	518
+TCGA-NH-A6GC	'--	black or african american	Alive	Stage IVB	389
+TCGA-CM-6675	'--	black or african american	Alive	Stage IVB	397
+TCGA-D5-5538	1661	white	Dead	Stage IIIB	373
+TCGA-AA-3844	'--	not reported	Alive	Stage IIIC	454
+TCGA-NH-A6GB	'--	black or african american	Alive	Stage IIIC	476
+TCGA-A6-6653	'--	white	Alive	Stage I	742
+TCGA-CM-4746	'--	black or african american	Alive	Stage I	1126
+TCGA-QG-A5Z2	'--	black or african american	Alive	Stage I	952
+TCGA-F4-6807	'--	white	Alive	Stage IIIC	1309
+TCGA-AZ-6601	3042	white	Dead	Stage II	'--
+TCGA-A6-A5ZU	'--	black or african american	Alive	Stage IIIB	293
+TCGA-AA-3971	'--	not reported	Alive	Stage III	489
+TCGA-AA-3811	306	not reported	Dead	Stage III	30
+TCGA-AA-A017	'--	not reported	Alive	Stage IIA	457
+TCGA-AA-3952	61	not reported	Dead	Stage IIIC	'--
+TCGA-AA-A00E	'--	not reported	Alive	Stage IIA	913
+TCGA-G4-6626	1	white	Dead	Stage IIA	'--
+TCGA-A6-6651	'--	white	Alive	Stage IIIB	662
+TCGA-D5-6535	'--	white	Alive	Stage IIIB	460
+TCGA-AY-A8YK	'--	black or african american	Alive	Stage IVA	573
+TCGA-A6-3807	'--	white	Alive	Stage IIIC	1054
+TCGA-DM-A28K	'--	white	Alive	Stage IIA	2988
+TCGA-AA-3532	'--	not reported	Alive	Stage IIA	882
+TCGA-DM-A28C	2475	white	Dead	Stage IIA	2475
+TCGA-AZ-4614	172	white	Dead	Stage IVA	'--
+TCGA-AA-A01V	'--	not reported	Alive	Stage I	31
+TCGA-NH-A8F8	511	black or african american	Dead	Stage IV	167
+TCGA-AA-3666	61	not reported	Dead	Stage III	'--
+TCGA-G4-6302	0	white	Dead	Stage IIA	0
+TCGA-AA-3561	'--	not reported	Alive	Stage IIA	424
+TCGA-AA-A03F	0	not reported	Dead	Stage III	0
+TCGA-3L-AA1B	'--	black or african american	Alive	Stage I	475
+TCGA-AA-3527	'--	not reported	Alive	Stage IIA	0
+TCGA-AA-3696	153	not reported	Dead	Stage IV	0
+TCGA-D5-6898	'--	white	Alive	Stage I	229
+TCGA-CA-6718	306	asian	Dead	Stage IIA	3
+TCGA-AA-3526	'--	not reported	Alive	Stage I	580
+TCGA-AA-3814	'--	not reported	Alive	Stage IIA	0
+TCGA-DM-A285	179	white	Dead	Stage IV	'--
+TCGA-AZ-4308	'--	white	Alive	Stage IIIB	3324
+TCGA-AA-3831	'--	not reported	Alive	Stage IIA	547
+TCGA-AZ-4323	43	white	Dead	Stage IV	'--
+TCGA-NH-A50V	'--	black or african american	Alive	Stage IIIB	588
+TCGA-A6-6650	'--	black or african american	Alive	Stage IIA	627
+TCGA-CM-5860	'--	white	Alive	Stage IIA	974
+TCGA-AA-A022	'--	not reported	Alive	Stage II	0
+TCGA-A6-2676	1305	white	Dead	Stage IIB	711
+TCGA-A6-2686	1126	white	Dead	Stage IIA	488
+TCGA-G4-6297	'--	white	Alive	Stage IV	2506
+TCGA-AA-3862	'--	not reported	Alive	Stage IIA	914
+TCGA-AA-3538	'--	not reported	Alive	Stage I	791
+TCGA-G4-6322	'--	white	Alive	Stage IIIB	792
+TCGA-A6-5664	'--	black or african american	Alive	Stage IIIC	672
+TCGA-D5-6538	'--	white	Alive	Stage IIIB	521
+TCGA-G4-6625	'--	white	Alive	Stage IIA	2792
+TCGA-CM-6163	'--	white	Alive	Stage I	427
+TCGA-AA-3524	'--	not reported	Alive	Stage II	1096
+TCGA-AY-A54L	'--	black or african american	Alive	Stage I	525
+TCGA-CM-5862	153	white	Dead	Stage IVA	'--
+TCGA-NH-A50T	'--	black or african american	Alive	Stage IIA	553
+TCGA-AY-4070	496	black or african american	Dead	Stage IIIC	'--
+TCGA-AA-3852	0	not reported	Dead	Stage IIA	'--
+TCGA-QL-A97D	'--	black or african american	Alive	Stage I	666
+TCGA-AA-3675	'--	not reported	Alive	Stage II	1431
+TCGA-CM-4748	'--	white	Alive	Stage IIIB	792
+TCGA-AA-3688	'--	not reported	Alive	Stage IV	578
+TCGA-CM-4751	'--	white	Alive	Stage IIIB	822
+TCGA-D5-6533	'--	white	Alive	'--	775
+TCGA-CK-4948	'--	white	Alive	Stage III	4502
+TCGA-AZ-6603	899	white	Dead	'--	'--
+TCGA-D5-6930	'--	white	Alive	Stage IIA	406
+TCGA-AA-3930	61	not reported	Dead	Stage IV	0
+TCGA-CK-4952	'--	white	Alive	Stage IIIC	475
+TCGA-AZ-4684	'--	white	Alive	Stage IVA	1977
+TCGA-A6-2685	'--	black or african american	Alive	Stage IIA	1133
+TCGA-5M-AATE	'--	black or african american	Alive	Stage IIA	1200
+TCGA-4T-AA8H	'--	black or african american	Alive	Stage IIA	385
+TCGA-AA-A010	'--	not reported	Alive	Stage IIB	1064
+TCGA-DM-A1D6	570	white	Dead	Stage IIA	570
+TCGA-AA-3851	'--	not reported	Alive	Stage IIA	1006
+TCGA-A6-2678	'--	white	Alive	Stage IIIB	1286
+TCGA-AA-3673	'--	not reported	Alive	Stage II	1522
+TCGA-AA-3679	'--	not reported	Alive	Stage IV	457
+TCGA-AA-3678	'--	not reported	Alive	Stage III	1430
+TCGA-AA-3994	'--	not reported	Alive	Stage IIIB	822
+TCGA-AU-3779	'--	white	Alive	Stage IIA	441
+TCGA-G4-6317	'--	white	Alive	Stage IIIC	1095
+TCGA-F4-6463	'--	white	Alive	Stage IIA	1087
+TCGA-AZ-6608	59	white	Dead	Stage IIIA	'--
+TCGA-AA-3941	'--	not reported	Alive	Stage IVA	730
+TCGA-AA-3692	1095	not reported	Dead	Stage IV	0
+TCGA-AA-A03J	'--	not reported	Alive	Stage I	1246
+TCGA-AA-3841	'--	not reported	Alive	Stage IIA	1124
+TCGA-AY-5543	'--	black or african american	Alive	Stage IVA	1004
+TCGA-AA-3672	'--	not reported	Alive	Stage III	0
+TCGA-SS-A7HO	'--	black or african american	Alive	Stage IIB	1829
+TCGA-AA-3494	'--	not reported	Alive	Stage IV	31
+TCGA-AA-A00N	122	not reported	Dead	Stage IIB	'--
+TCGA-AA-3510	'--	not reported	Alive	Stage II	1946
+TCGA-AA-3520	'--	not reported	Alive	Stage II	731
+TCGA-A6-4105	442	white	Dead	Stage IIA	'--
+TCGA-AD-6964	331	white	Dead	'--	23
+TCGA-CM-5861	'--	white	Alive	Stage IIA	457
+TCGA-CM-6168	'--	black or african american	Alive	Stage IIA	395
+TCGA-AA-A01K	'--	not reported	Alive	Stage IIIC	943
+TCGA-AA-A01Z	'--	not reported	Alive	Stage II	1126
+TCGA-AA-3693	'--	not reported	Alive	Stage IV	0
+TCGA-A6-2681	'--	white	Alive	Stage IIA	1387
+TCGA-A6-3810	'--	white	Alive	Stage IIA	1111
+TCGA-AZ-6607	97	white	Dead	Stage IV	'--
+TCGA-CM-5341	'--	white	Alive	Stage IIIA	884
+TCGA-A6-2674	'--	white	Alive	Stage IV	1331
+TCGA-AA-A00Z	'--	not reported	Alive	Stage IIA	669
+TCGA-AD-6965	'--	white	Alive	Stage IIIC	805
+TCGA-RU-A8FL	'--	black or african american	Alive	Stage IIIB	1177
+TCGA-A6-6142	'--	white	Alive	Stage IVA	763
+TCGA-F4-6460	972	white	Dead	Stage IIIB	407
+TCGA-DM-A1D8	383	white	Dead	'--	383
+TCGA-AA-A024	1188	not reported	Dead	Stage II	61
+TCGA-AA-3856	'--	not reported	Alive	Stage IIA	30
+TCGA-G4-6315	'--	white	Alive	Stage IV	1883
+TCGA-A6-2671	1331	white	Dead	Stage IV	1126
+TCGA-AA-3866	'--	not reported	Alive	Stage I	518
+TCGA-AA-3556	'--	not reported	Alive	Stage I	700
+TCGA-CK-5913	'--	white	Alive	Stage IIA	1561
+TCGA-AA-3521	'--	not reported	Alive	Stage II	'--
+TCGA-AA-3861	'--	not reported	Alive	Stage IIA	914
+TCGA-NH-A6GA	302	black or african american	Dead	Stage IIIC	182
+TCGA-D5-6929	'--	white	Alive	Stage IV	408
+TCGA-AA-3979	'--	not reported	Alive	Stage IIA	730
+TCGA-AD-6963	'--	white	Alive	'--	834
+TCGA-DM-A1D4	2821	white	Dead	Stage IIA	2821
+TCGA-AA-A01D	334	not reported	Dead	Stage IIIC	30
+TCGA-AA-3821	'--	not reported	Alive	Stage I	31
+TCGA-A6-6782	'--	white	Alive	Stage IIB	617
+TCGA-D5-6920	'--	white	Alive	Stage IIA	377
+TCGA-AY-6196	'--	white	Alive	Stage IIIC	6
+TCGA-CA-6716	'--	asian	Alive	Stage IIA	371
+TCGA-A6-5666	'--	white	Alive	Stage IIC	995
+TCGA-AA-3542	'--	not reported	Alive	Stage IIIC	395
+TCGA-CM-6166	'--	white	Alive	Stage I	669
+TCGA-A6-2684	'--	white	Alive	Stage I	1127
+TCGA-F4-6704	'--	american indian or alaska native	Alive	Stage IIIC	47
+TCGA-AA-A01T	'--	not reported	Alive	Stage III	1005
+TCGA-CA-5255	'--	asian	Alive	Stage IIA	376
+TCGA-AA-A00W	'--	not reported	Alive	Stage I	456
+TCGA-CM-6165	'--	white	Alive	Stage IIA	488
+TCGA-AA-A01X	'--	not reported	Alive	Stage III	791
+TCGA-G4-6323	'--	black or african american	Alive	Stage IA	419
+TCGA-A6-6138	'--	white	Alive	Stage I	685
+TCGA-A6-6140	'--	white	Alive	Stage IIA	734
+TCGA-A6-5656	'--	white	Alive	Stage I	1001
+TCGA-AA-3860	'--	not reported	Alive	Stage IIIB	945
+TCGA-A6-6141	'--	black or african american	Alive	Stage IIA	255
+TCGA-AA-3812	'--	not reported	Alive	Stage IIA	1066
+TCGA-AY-6197	'--	white	Alive	Stage IIA	652
+TCGA-AA-3662	'--	not reported	Alive	Stage IV	184
+TCGA-AD-5900	'--	white	Alive	Stage I	370
+TCGA-AA-A02E	90	not reported	Dead	Stage IV	'--
+TCGA-A6-2670	'--	white	Alive	Stage IIA	775
+TCGA-A6-2682	424	white	Dead	Stage IV	'--
+TCGA-AD-6901	682	white	Dead	'--	31
+TCGA-D5-6541	'--	white	Alive	Stage IIA	474
+TCGA-AA-3525	'--	not reported	Alive	Stage IIIB	1
+TCGA-DM-A28A	805	white	Dead	Stage IIIC	805
+TCGA-AA-3697	'--	not reported	Alive	Stage II	2587
+TCGA-AA-3495	'--	not reported	Alive	Stage I	1127
+TCGA-D5-6932	'--	white	Alive	Stage IIA	346
+TCGA-DM-A0XF	1162	white	Dead	Stage IIIC	'--
+TCGA-A6-A565	494	black or african american	Dead	Stage IIIC	'--
+TCGA-G4-6309	'--	black or african american	Alive	Stage IIIB	2600
+TCGA-CK-5912	1493	white	Dead	Stage I	1466
+TCGA-AA-3842	'--	not reported	Alive	Stage IIIA	1126
+TCGA-AA-3655	'--	not reported	Alive	Stage II	1856
+TCGA-D5-6539	'--	white	Alive	'--	380
+TCGA-A6-5662	'--	white	Alive	Stage IVA	718
+TCGA-NH-A8F7	'--	black or african american	Alive	Stage IIA	543
+TCGA-AA-3950	'--	not reported	Alive	Stage IIA	730
+TCGA-AA-3548	'--	not reported	Alive	Stage IIIC	1034
+TCGA-AD-6895	'--	white	Alive	Stage IIIB	763
+TCGA-AA-3872	'--	not reported	Alive	Stage IV	0
+TCGA-AA-A00D	'--	not reported	Alive	Stage I	578
+TCGA-F4-6855	'--	white	Alive	Stage IIA	1442
+TCGA-AD-6888	472	white	Dead	Stage IIIB	155
+TCGA-G4-6627	'--	white	Alive	Stage IIA	2175
+TCGA-CK-4950	'--	black or african american	Alive	Stage IIIB	2599
+TCGA-AA-A02K	426	not reported	Dead	Stage IV	0
+TCGA-A6-2679	'--	white	Alive	Stage IIB	1366
+TCGA-F4-6461	338	white	Dead	Stage IIIC	0
+TCGA-G4-6628	'--	white	Alive	Stage I	2424
+TCGA-DM-A1D0	'--	white	Alive	Stage IIA	3974
+TCGA-G4-6307	'--	white	Alive	Stage IIIB	1674
+TCGA-AA-3867	'--	not reported	Alive	Stage IV	731
+TCGA-AA-3977	'--	not reported	Alive	'--	761
+TCGA-AA-A02J	153	not reported	Dead	Stage IV	'--
+TCGA-D5-6928	'--	white	Alive	Stage IIA	354
+TCGA-AA-3949	'--	not reported	Alive	Stage IIIB	791
+TCGA-AA-A00F	'--	not reported	Alive	Stage IIIC	1035
+TCGA-5M-AAT6	290	black or african american	Dead	Stage IV	'--
+TCGA-AA-3815	'--	not reported	Alive	Stage IIA	1005
+TCGA-DM-A28E	'--	white	Alive	Stage IIA	3648
+TCGA-D5-5539	'--	white	Alive	Stage IIIA	596
+TCGA-A6-6648	'--	white	Alive	Stage IVA	766
+TCGA-AA-A00O	'--	not reported	Alive	Stage IIIC	822
+TCGA-AA-3984	'--	not reported	Alive	Stage IIA	0
+TCGA-CM-6172	'--	white	Alive	Stage IIIB	335
+TCGA-AA-3967	'--	not reported	Alive	Stage IIIB	943
+TCGA-AA-3681	'--	not reported	Alive	Stage III	182
+TCGA-AZ-4315	'--	white	Alive	Stage IIA	1776
+TCGA-F4-6808	'--	white	Alive	Stage I	1024
+TCGA-CA-5796	'--	asian	Alive	Stage IIA	377
+TCGA-NH-A5IV	'--	black or african american	Alive	Stage IIA	0
+TCGA-AA-3560	'--	not reported	Alive	Stage IIIC	608
+TCGA-AA-3858	'--	not reported	Alive	Stage I	945
+TCGA-AA-A00L	'--	not reported	Alive	Stage IIA	1157
+TCGA-AA-A01P	1158	not reported	Dead	Stage III	0
+TCGA-CM-6679	'--	white	Alive	Stage IIA	306
+TCGA-AY-A71X	'--	black or african american	Alive	Stage I	588
+TCGA-AA-3489	214	not reported	Dead	Stage II	31
+TCGA-AA-3864	'--	not reported	Alive	Stage II	1612
+TCGA-AA-3664	'--	not reported	Alive	Stage II	1643
+TCGA-AA-3845	0	not reported	Dead	Stage IIA	'--
+TCGA-G4-6293	'--	white	Alive	Stage III	4051
+TCGA-AA-3534	'--	not reported	Alive	Stage IIA	882
+TCGA-AZ-6606	357	white	Dead	Stage IV	'--
+TCGA-AA-3970	'--	not reported	Alive	Stage IIA	1096
+TCGA-D5-6532	'--	white	Alive	Stage IIA	555
+TCGA-AA-3517	'--	not reported	Alive	Stage IIA	1186
+TCGA-D5-6536	'--	white	Alive	Stage IIA	543
+TCGA-DM-A288	427	white	Dead	Stage IIIC	427
+TCGA-AA-A029	'--	not reported	Alive	Stage II	1581
+TCGA-CM-4743	'--	white	Alive	Stage IIA	701
+TCGA-A6-3809	'--	white	Alive	Stage IIB	996
+TCGA-AA-A02W	'--	not reported	Alive	Stage I	1247
+TCGA-D5-6923	'--	white	Alive	Stage I	378
+TCGA-D5-5540	'--	white	Alive	Stage IIA	1706
+TCGA-A6-6780	'--	white	Alive	Stage IIA	612
+TCGA-AZ-4682	680	white	Dead	Stage IVA	'--
+TCGA-DM-A28F	1094	white	Dead	Stage IIIB	1094
+TCGA-AA-3488	153	not reported	Dead	Stage IV	'--
+TCGA-A6-3808	'--	white	Alive	Stage IIA	1014
+TCGA-CM-4752	'--	black or african american	Alive	Stage IIA	396

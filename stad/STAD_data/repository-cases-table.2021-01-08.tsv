@@ -1,0 +1,21 @@
+Cart	Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	Annotations	Slides
+Case Actions	TCGA-CG-4460	TCGA-STAD	Stomach	Female	58	4	5	16	7	1	8	17	2	3
+Case Actions	TCGA-CG-4475	TCGA-STAD	Stomach	Male	58	4	5	16	7	1	8	17	2	3
+Case Actions	TCGA-CG-5716	TCGA-STAD	Stomach	Male	57	4	5	16	7	1	8	16	2	2
+Case Actions	TCGA-HF-7131	TCGA-STAD	Stomach	Female	58	4	5	16	7	1	8	17	2	3
+Case Actions	TCGA-HU-A4H6	TCGA-STAD	Stomach	Female	56	4	5	16	7	1	7	16	1	2
+Case Actions	TCGA-F1-6177	TCGA-STAD	Stomach	Male	58	4	5	16	7	1	8	17	1	3
+Case Actions	TCGA-CG-4476	TCGA-STAD	Stomach	Male	58	4	5	16	7	1	8	17	1	3
+Case Actions	TCGA-CD-5813	TCGA-STAD	Stomach	Male	54	4	5	16	4	1	7	17	1	3
+Case Actions	TCGA-CG-4444	TCGA-STAD	Stomach	Male	58	4	5	16	7	1	8	17	1	3
+Case Actions	TCGA-CD-A486	TCGA-STAD	Stomach	Male	57	5	5	16	7	1	7	16	0	2
+Case Actions	TCGA-HU-A4GD	TCGA-STAD	Stomach	Male	57	5	7	16	5	1	7	16	0	2
+Case Actions	TCGA-B7-A5TK	TCGA-STAD	Stomach	Male	58	5	7	16	7	1	7	15	0	1
+Case Actions	TCGA-BR-8364	TCGA-STAD	Stomach	Female	57	4	5	16	7	1	7	17	0	3
+Case Actions	TCGA-MX-A5UG	TCGA-STAD	Stomach	Male	56	4	5	16	7	1	7	16	0	2
+Case Actions	TCGA-BR-7707	TCGA-STAD	Stomach	Female	56	4	5	16	7	1	7	16	0	2
+Case Actions	TCGA-FP-A8CX	TCGA-STAD	Stomach	Male	57	4	5	16	7	1	8	16	0	2
+Case Actions	TCGA-SW-A7EB	TCGA-STAD	Stomach	Male	56	4	5	16	7	1	7	16	0	2
+Case Actions	TCGA-HU-A4G3	TCGA-STAD	Stomach	Male	61	6	7	16	7	1	7	17	0	3
+Case Actions	TCGA-BR-7851	TCGA-STAD	Stomach	Male	68	7	10	16	9	1	7	18	0	4
+Case Actions	TCGA-CD-8529	TCGA-STAD	Stomach	Male	57	4	5	16	7	1	7	17	0	3

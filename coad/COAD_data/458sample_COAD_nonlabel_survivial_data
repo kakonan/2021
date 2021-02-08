@@ -1,0 +1,459 @@
+case_submitter_id	days_to_death	race	vital_status	ajcc_pathologic_stage	days_to_last_follow_up	Event	time
+TCGA-CK-4948	NaN	white	Alive	Stage III	4502	False	4502.0
+TCGA-DM-A1D9	NaN	white	Alive	Stage IIA	4270	False	4270.0
+TCGA-DM-A282	NaN	white	Alive	Stage IIA	4233	False	4233.0
+TCGA-DM-A1HB	NaN	white	Alive	Stage IIIB	4126	False	4126.0
+TCGA-G4-6293	NaN	white	Alive	Stage III	4051	False	4051.0
+TCGA-DM-A1D0	NaN	white	Alive	Stage IIA	3974	False	3974.0
+TCGA-DM-A28E	NaN	white	Alive	Stage IIA	3648	False	3648.0
+TCGA-DM-A0X9	NaN	white	Alive	Stage IIA	3641	False	3641.0
+TCGA-DM-A28H	NaN	white	Alive	Stage IIIC	3561	False	3561.0
+TCGA-AZ-4308	NaN	white	Alive	Stage IIIB	3324	False	3324.0
+TCGA-AZ-4681	NaN	white	Alive	Stage IIA	3247	False	3247.0
+TCGA-AZ-6601	3042	white	Dead	Stage II	NaN	True	3042.0
+TCGA-DM-A28K	NaN	white	Alive	Stage IIA	2988	False	2988.0
+TCGA-DM-A28M	NaN	white	Alive	Stage IIA	2895	False	2895.0
+TCGA-DM-A1D4	2821	white	Dead	Stage IIA	NaN	True	2821.0
+TCGA-G4-6625	NaN	white	Alive	Stage IIA	2792	False	2792.0
+TCGA-AZ-5407	NaN	white	Alive	Stage I	2683	False	2683.0
+TCGA-DM-A1HA	NaN	white	Alive	Stage IIIC	2600	False	2600.0
+TCGA-G4-6309	NaN	black or african american	Alive	Stage IIIB	2600	False	2600.0
+TCGA-CK-4950	NaN	black or african american	Alive	Stage IIIB	2599	False	2599.0
+TCGA-AA-3697	NaN	not reported	Alive	Stage II	2587	False	2587.0
+TCGA-AD-6889	2532	asian	Dead	Stage IIA	NaN	True	2532.0
+TCGA-G4-6297	NaN	white	Alive	Stage IV	2506	False	2506.0
+TCGA-DM-A28C	2475	white	Dead	Stage IIA	NaN	True	2475.0
+TCGA-G4-6628	NaN	white	Alive	Stage I	2424	False	2424.0
+TCGA-AA-3660	NaN	not reported	Alive	Stage II	2375	False	2375.0
+TCGA-AZ-4313	NaN	white	Alive	Stage I	2310	False	2310.0
+TCGA-G4-6299	NaN	white	Alive	Stage IIIC	2268	False	2268.0
+TCGA-G4-6627	NaN	white	Alive	Stage IIA	2175	False	2175.0
+TCGA-CK-4951	2134	white	Dead	Stage IIA	NaN	True	2134.0
+TCGA-WS-AB45	NaN	black or african american	Alive	Stage IIA	2130	False	2130.0
+TCGA-G4-6303	2003	white	Dead	Stage IV	NaN	True	2003.0
+TCGA-AZ-4684	NaN	white	Alive	Stage IVA	1977	False	1977.0
+TCGA-AA-3510	NaN	not reported	Alive	Stage II	1946	False	1946.0
+TCGA-G4-6310	NaN	white	Alive	Stage IIIB	1935	False	1935.0
+TCGA-AA-3509	NaN	not reported	Alive	Stage II	1915	False	1915.0
+TCGA-AZ-5403	1910	white	Dead	Stage II	NaN	True	1910.0
+TCGA-G4-6315	NaN	white	Alive	Stage IV	1883	False	1883.0
+TCGA-A6-A567	1881	black or african american	Dead	Stage IV	NaN	True	1881.0
+TCGA-AA-3655	NaN	not reported	Alive	Stage II	1856	False	1856.0
+TCGA-DM-A28G	1849	white	Dead	Stage IIA	NaN	True	1849.0
+TCGA-SS-A7HO	NaN	black or african american	Alive	Stage IIB	1829	False	1829.0
+TCGA-AZ-4315	NaN	white	Alive	Stage IIA	1776	False	1776.0
+TCGA-AA-3506	NaN	not reported	Alive	Stage I	1765	False	1765.0
+TCGA-A6-A56B	1711	black or african american	Dead	Stage IIIB	NaN	True	1711.0
+TCGA-D5-5540	NaN	white	Alive	Stage IIA	1706	False	1706.0
+TCGA-D5-5541	NaN	white	Alive	Stage IIIB	1701	False	1701.0
+TCGA-G4-6307	NaN	white	Alive	Stage IIIB	1674	False	1674.0
+TCGA-D5-5538	1661	white	Dead	Stage IIIB	NaN	True	1661.0
+TCGA-AA-3664	NaN	not reported	Alive	Stage II	1643	False	1643.0
+TCGA-G4-6304	NaN	white	Alive	Stage IIB	1631	False	1631.0
+TCGA-AA-3864	NaN	not reported	Alive	Stage II	1612	False	1612.0
+TCGA-AA-A029	NaN	not reported	Alive	Stage II	1581	False	1581.0
+TCGA-CK-5913	NaN	white	Alive	Stage IIA	1561	False	1561.0
+TCGA-AA-3972	NaN	not reported	Alive	Stage IV	1551	False	1551.0
+TCGA-AA-3673	NaN	not reported	Alive	Stage II	1522	False	1522.0
+TCGA-AZ-6598	1503	white	Dead	Stage II	NaN	True	1503.0
+TCGA-CK-5912	1493	white	Dead	Stage I	NaN	True	1493.0
+TCGA-F4-6703	NaN	white	Alive	Stage IIA	1456	False	1456.0
+TCGA-F4-6855	NaN	white	Alive	Stage IIA	1442	False	1442.0
+TCGA-AA-3675	NaN	not reported	Alive	Stage II	1431	False	1431.0
+TCGA-AA-3678	NaN	not reported	Alive	Stage III	1430	False	1430.0
+TCGA-A6-2672	NaN	white	Alive	Stage IIIB	1419	False	1419.0
+TCGA-A6-2681	NaN	white	Alive	Stage IIA	1387	False	1387.0
+TCGA-D5-5537	1381	white	Dead	'--	NaN	True	1381.0
+TCGA-A6-2679	NaN	white	Alive	Stage IIB	1366	False	1366.0
+TCGA-G4-6306	NaN	white	Alive	'--	1359	False	1359.0
+TCGA-DM-A1DB	1348	white	Dead	Stage IIA	NaN	True	1348.0
+TCGA-A6-2671	1331	white	Dead	Stage IV	NaN	True	1331.0
+TCGA-A6-2674	NaN	white	Alive	Stage IV	1331	False	1331.0
+TCGA-A6-2675	NaN	white	Alive	Stage IIA	1321	False	1321.0
+TCGA-D5-6534	NaN	white	Alive	Stage IIA	1316	False	1316.0
+TCGA-F4-6807	NaN	white	Alive	Stage IIIC	1309	False	1309.0
+TCGA-A6-2676	1305	white	Dead	Stage IIB	NaN	True	1305.0
+TCGA-QG-A5YV	NaN	black or african american	Alive	Stage IIIC	1301	False	1301.0
+TCGA-A6-2678	NaN	white	Alive	Stage IIIB	1286	False	1286.0
+TCGA-AA-A00Q	NaN	not reported	Alive	Stage IIIB	1278	False	1278.0
+TCGA-F4-6806	NaN	white	Alive	Stage I	1260	False	1260.0
+TCGA-AA-A02W	NaN	not reported	Alive	Stage I	1247	False	1247.0
+TCGA-AA-A03J	NaN	not reported	Alive	Stage I	1246	False	1246.0
+TCGA-AA-A02Y	NaN	not reported	Alive	Stage I	1216	False	1216.0
+TCGA-AA-A02F	NaN	not reported	Alive	Stage IV	1216	False	1216.0
+TCGA-5M-AATE	NaN	black or african american	Alive	Stage IIA	1200	False	1200.0
+TCGA-G4-6311	NaN	white	Alive	Stage III	1199	False	1199.0
+TCGA-AA-A024	1188	not reported	Dead	Stage II	NaN	True	1188.0
+TCGA-AA-3517	NaN	not reported	Alive	Stage IIA	1186	False	1186.0
+TCGA-AA-3837	NaN	not reported	Alive	Stage IIA	1186	False	1186.0
+TCGA-RU-A8FL	NaN	black or african american	Alive	Stage IIIB	1177	False	1177.0
+TCGA-DM-A0XF	1162	white	Dead	Stage IIIC	NaN	True	1162.0
+TCGA-AA-A01P	1158	not reported	Dead	Stage III	NaN	True	1158.0
+TCGA-AA-A00A	NaN	not reported	Alive	Stage IIA	1157	False	1157.0
+TCGA-AA-A00L	NaN	not reported	Alive	Stage IIA	1157	False	1157.0
+TCGA-A6-2685	NaN	black or african american	Alive	Stage IIA	1133	False	1133.0
+TCGA-AA-3495	NaN	not reported	Alive	Stage I	1127	False	1127.0
+TCGA-AA-3685	NaN	not reported	Alive	Stage II	1127	False	1127.0
+TCGA-A6-2684	NaN	white	Alive	Stage I	1127	False	1127.0
+TCGA-AA-3522	NaN	not reported	Alive	Stage IIA	1127	False	1127.0
+TCGA-CM-4746	NaN	black or african american	Alive	Stage I	1126	False	1126.0
+TCGA-A6-2686	1126	white	Dead	Stage IIA	NaN	True	1126.0
+TCGA-AA-A01Z	NaN	not reported	Alive	Stage II	1126	False	1126.0
+TCGA-AA-3842	NaN	not reported	Alive	Stage IIIA	1126	False	1126.0
+TCGA-AA-3841	NaN	not reported	Alive	Stage IIA	1124	False	1124.0
+TCGA-A6-3810	NaN	white	Alive	Stage IIA	1111	False	1111.0
+TCGA-AA-3970	NaN	not reported	Alive	Stage IIA	1096	False	1096.0
+TCGA-AA-3524	NaN	not reported	Alive	Stage II	1096	False	1096.0
+TCGA-AA-3854	NaN	not reported	Alive	Stage I	1096	False	1096.0
+TCGA-G4-6317	NaN	white	Alive	Stage IIIC	1095	False	1095.0
+TCGA-AA-3692	1095	not reported	Dead	Stage IV	NaN	True	1095.0
+TCGA-DM-A28F	1094	white	Dead	Stage IIIB	NaN	True	1094.0
+TCGA-G4-6314	NaN	white	Alive	Stage IV	1093	False	1093.0
+TCGA-G4-6586	NaN	white	Alive	Stage IIA	1089	False	1089.0
+TCGA-F4-6569	NaN	white	Alive	Stage I	1087	False	1087.0
+TCGA-F4-6463	NaN	white	Alive	Stage IIA	1087	False	1087.0
+TCGA-F4-6856	NaN	white	Alive	Stage I	1074	False	1074.0
+TCGA-A6-2680	NaN	black or african american	Alive	Stage II	1068	False	1068.0
+TCGA-AA-3812	NaN	not reported	Alive	Stage IIA	1066	False	1066.0
+TCGA-AA-3502	NaN	not reported	Alive	Stage I	1065	False	1065.0
+TCGA-AA-A01R	NaN	not reported	Alive	Stage III	1065	False	1065.0
+TCGA-AA-A010	NaN	not reported	Alive	Stage IIB	1064	False	1064.0
+TCGA-A6-3807	NaN	white	Alive	Stage IIIC	1054	False	1054.0
+TCGA-F4-6805	NaN	white	Alive	Stage IIA	1047	False	1047.0
+TCGA-AA-3975	NaN	not reported	Alive	Stage I	1036	False	1036.0
+TCGA-AA-3531	NaN	not reported	Alive	Stage IIA	1035	False	1035.0
+TCGA-AA-A00F	NaN	not reported	Alive	Stage IIIC	1035	False	1035.0
+TCGA-AA-3956	NaN	not reported	Alive	Stage IIA	1035	False	1035.0
+TCGA-AA-3548	NaN	not reported	Alive	Stage IIIC	1034	False	1034.0
+TCGA-F4-6808	NaN	white	Alive	Stage I	1024	False	1024.0
+TCGA-A6-5661	NaN	black or african american	Alive	Stage IIA	1020	False	1020.0
+TCGA-A6-3808	NaN	white	Alive	Stage IIA	1014	False	1014.0
+TCGA-AA-3851	NaN	not reported	Alive	Stage IIA	1006	False	1006.0
+TCGA-AA-A01T	NaN	not reported	Alive	Stage III	1005	False	1005.0
+TCGA-AA-3815	NaN	not reported	Alive	Stage IIA	1005	False	1005.0
+TCGA-AA-3947	NaN	not reported	Alive	Stage IIB	1004	False	1004.0
+TCGA-AY-5543	NaN	black or african american	Alive	Stage IVA	1004	False	1004.0
+TCGA-QG-A5YX	NaN	black or african american	Alive	Stage IIA	1003	False	1003.0
+TCGA-AZ-4615	NaN	white	Alive	Stage IIIB	1002	False	1002.0
+TCGA-A6-5656	NaN	white	Alive	Stage I	1001	False	1001.0
+TCGA-A6-3809	NaN	white	Alive	Stage IIB	996	False	996.0
+TCGA-A6-5666	NaN	white	Alive	Stage IIC	995	False	995.0
+TCGA-A6-4107	NaN	white	Alive	Stage IIIB	987	False	987.0
+TCGA-AA-3855	NaN	not reported	Alive	Stage I	975	False	975.0
+TCGA-CM-5860	NaN	white	Alive	Stage IIA	974	False	974.0
+TCGA-AA-A01F	NaN	not reported	Alive	Stage IIIB	974	False	974.0
+TCGA-F4-6460	972	white	Dead	Stage IIIB	NaN	True	972.0
+TCGA-A6-5657	NaN	black or african american	Alive	Stage IIIB	962	False	962.0
+TCGA-QG-A5Z2	NaN	black or african american	Alive	Stage I	952	False	952.0
+TCGA-AA-3858	NaN	not reported	Alive	Stage I	945	False	945.0
+TCGA-AA-3860	NaN	not reported	Alive	Stage IIIB	945	False	945.0
+TCGA-AA-3877	NaN	not reported	Alive	Stage I	943	False	943.0
+TCGA-AA-A01K	NaN	not reported	Alive	Stage IIIC	943	False	943.0
+TCGA-AA-A01I	NaN	not reported	Alive	Stage I	943	False	943.0
+TCGA-AA-3967	NaN	not reported	Alive	Stage IIIB	943	False	943.0
+TCGA-A6-5659	NaN	white	Alive	Stage I	926	False	926.0
+TCGA-CM-5349	NaN	white	Alive	Stage IIA	915	False	915.0
+TCGA-AA-3861	NaN	not reported	Alive	Stage IIA	914	False	914.0
+TCGA-AA-3862	NaN	not reported	Alive	Stage IIA	914	False	914.0
+TCGA-AA-A00E	NaN	not reported	Alive	Stage IIA	913	False	913.0
+TCGA-AA-3870	NaN	not reported	Alive	Stage IV	912	False	912.0
+TCGA-AA-3555	NaN	not reported	Alive	Stage IIA	911	False	911.0
+TCGA-AZ-6603	899	white	Dead	'--	NaN	True	899.0
+TCGA-QG-A5YW	NaN	black or african american	Alive	Stage IIIC	896	False	896.0
+TCGA-A6-5660	NaN	black or african american	Alive	Stage IIIC	888	False	888.0
+TCGA-A6-5667	NaN	white	Alive	Stage IIIB	887	False	887.0
+TCGA-CM-5341	NaN	white	Alive	Stage IIIA	884	False	884.0
+TCGA-CM-6164	NaN	white	Alive	Stage IIA	883	False	883.0
+TCGA-AA-3534	NaN	not reported	Alive	Stage IIA	882	False	882.0
+TCGA-AA-3532	NaN	not reported	Alive	Stage IIA	882	False	882.0
+TCGA-G4-6294	858	white	Dead	Stage IV	NaN	True	858.0
+TCGA-AD-6963	NaN	white	Alive	'--	834	False	834.0
+TCGA-A6-6137	NaN	white	Alive	Stage IIIB	824	False	824.0
+TCGA-AU-6004	NaN	white	Alive	Stage I	824	False	824.0
+TCGA-AA-A00O	NaN	not reported	Alive	Stage IIIC	822	False	822.0
+TCGA-CM-4751	NaN	white	Alive	Stage IIIB	822	False	822.0
+TCGA-AA-3994	NaN	not reported	Alive	Stage IIIB	822	False	822.0
+TCGA-AA-3982	NaN	not reported	Alive	Stage IIIB	822	False	822.0
+TCGA-AA-3869	822	not reported	Dead	Stage IV	NaN	True	822.0
+TCGA-AA-3710	NaN	not reported	Alive	Stage IIA	821	False	821.0
+TCGA-CK-6747	NaN	white	Alive	Stage IIA	820	False	820.0
+TCGA-AD-6965	NaN	white	Alive	Stage IIIC	805	False	805.0
+TCGA-DM-A28A	805	white	Dead	Stage IIIC	NaN	True	805.0
+TCGA-G4-6320	NaN	white	Alive	Stage III	804	False	804.0
+TCGA-G4-6588	NaN	white	Alive	Stage IIA	796	False	796.0
+TCGA-CM-4748	NaN	white	Alive	Stage IIIB	792	False	792.0
+TCGA-G4-6322	NaN	white	Alive	Stage IIIB	792	False	792.0
+TCGA-AA-A01X	NaN	not reported	Alive	Stage III	791	False	791.0
+TCGA-AA-3538	NaN	not reported	Alive	Stage I	791	False	791.0
+TCGA-AA-3976	NaN	not reported	Alive	Stage IIIA	791	False	791.0
+TCGA-AA-3949	NaN	not reported	Alive	Stage IIIB	791	False	791.0
+TCGA-A6-2670	NaN	white	Alive	Stage IIA	775	False	775.0
+TCGA-D5-6533	NaN	white	Alive	'--	775	False	775.0
+TCGA-A6-6648	NaN	white	Alive	Stage IVA	766	False	766.0
+TCGA-AD-6895	NaN	white	Alive	Stage IIIB	763	False	763.0
+TCGA-A6-6142	NaN	white	Alive	Stage IVA	763	False	763.0
+TCGA-AA-3819	NaN	not reported	Alive	Stage IIA	761	False	761.0
+TCGA-CM-4747	NaN	white	Alive	Stage IVA	761	False	761.0
+TCGA-AA-3977	NaN	not reported	Alive	'--	761	False	761.0
+TCGA-A6-A566	758	black or african american	Dead	Stage IIIB	NaN	True	758.0
+TCGA-A6-6652	NaN	black or african american	Alive	Stage IVA	751	False	751.0
+TCGA-AD-6890	NaN	white	Alive	'--	746	False	746.0
+TCGA-DM-A0XD	743	white	Dead	Stage IIA	NaN	True	743.0
+TCGA-A6-6653	NaN	white	Alive	Stage I	742	False	742.0
+TCGA-A6-2677	740	white	Dead	Stage IIIC	NaN	True	740.0
+TCGA-A6-6649	NaN	white	Alive	Stage IIIB	735	False	735.0
+TCGA-A6-6140	NaN	white	Alive	Stage IIA	734	False	734.0
+TCGA-AA-3520	NaN	not reported	Alive	Stage II	731	False	731.0
+TCGA-AA-3867	NaN	not reported	Alive	Stage IV	731	False	731.0
+TCGA-AA-3941	NaN	not reported	Alive	Stage IVA	730	False	730.0
+TCGA-AA-3950	NaN	not reported	Alive	Stage IIA	730	False	730.0
+TCGA-AA-3553	NaN	not reported	Alive	Stage I	730	False	730.0
+TCGA-AA-3979	NaN	not reported	Alive	Stage IIA	730	False	730.0
+TCGA-A6-6654	NaN	white	Alive	Stage IIIB	726	False	726.0
+TCGA-A6-5662	NaN	white	Alive	Stage IVA	718	False	718.0
+TCGA-CM-4743	NaN	white	Alive	Stage IIA	701	False	701.0
+TCGA-AA-3556	NaN	not reported	Alive	Stage I	700	False	700.0
+TCGA-CM-5348	NaN	white	Alive	Stage IIIB	699	False	699.0
+TCGA-A6-6138	NaN	white	Alive	Stage I	685	False	685.0
+TCGA-AD-6901	682	white	Dead	'--	NaN	True	682.0
+TCGA-AZ-4682	680	white	Dead	Stage IVA	NaN	True	680.0
+TCGA-G4-6321	NaN	white	Alive	Stage III	672	False	672.0
+TCGA-A6-5664	NaN	black or african american	Alive	Stage IIIC	672	False	672.0
+TCGA-A6-5665	NaN	white	Alive	Stage IIA	671	False	671.0
+TCGA-AA-A02R	670	not reported	Dead	Stage IIA	NaN	True	670.0
+TCGA-CM-5344	NaN	white	Alive	Stage IIIB	670	False	670.0
+TCGA-CK-5914	NaN	white	Alive	Stage IIIB	669	False	669.0
+TCGA-AA-3968	NaN	not reported	Alive	Stage I	669	False	669.0
+TCGA-AA-A00Z	NaN	not reported	Alive	Stage IIA	669	False	669.0
+TCGA-CM-6166	NaN	white	Alive	Stage I	669	False	669.0
+TCGA-QL-A97D	NaN	black or african american	Alive	Stage I	666	False	666.0
+TCGA-A6-6651	NaN	white	Alive	Stage IIIB	662	False	662.0
+TCGA-AY-6197	NaN	white	Alive	Stage IIA	652	False	652.0
+TCGA-AD-6548	NaN	white	Alive	Stage I	650	False	650.0
+TCGA-CK-5916	643	white	Dead	Stage I	NaN	True	643.0
+TCGA-AA-3549	NaN	not reported	Alive	Stage I	639	False	639.0
+TCGA-AA-3558	NaN	not reported	Alive	Stage I	638	False	638.0
+TCGA-AA-3955	NaN	not reported	Alive	Stage IIIB	638	False	638.0
+TCGA-A6-6650	NaN	black or african american	Alive	Stage IIA	627	False	627.0
+TCGA-D5-6530	NaN	white	Alive	Stage I	621	False	621.0
+TCGA-A6-6782	NaN	white	Alive	Stage IIB	617	False	617.0
+TCGA-D5-6529	NaN	white	Alive	Stage IIA	614	False	614.0
+TCGA-A6-6780	NaN	white	Alive	Stage IIA	612	False	612.0
+TCGA-CM-4744	NaN	white	Alive	Stage I	609	False	609.0
+TCGA-AA-3560	NaN	not reported	Alive	Stage IIIC	608	False	608.0
+TCGA-AA-3562	NaN	not reported	Alive	Stage IIIC	608	False	608.0
+TCGA-A6-6781	NaN	white	Alive	Stage IIIC	598	False	598.0
+TCGA-D5-5539	NaN	white	Alive	Stage IIIA	596	False	596.0
+TCGA-AY-A71X	NaN	black or african american	Alive	Stage I	588	False	588.0
+TCGA-NH-A50V	NaN	black or african american	Alive	Stage IIIB	588	False	588.0
+TCGA-AA-3986	NaN	not reported	Alive	Stage I	580	False	580.0
+TCGA-AA-3526	NaN	not reported	Alive	Stage I	580	False	580.0
+TCGA-AA-3530	NaN	not reported	Alive	Stage I	580	False	580.0
+TCGA-AA-3715	579	not reported	Dead	Stage II	NaN	True	579.0
+TCGA-AA-3713	NaN	not reported	Alive	Stage IV	579	False	579.0
+TCGA-AA-A00D	NaN	not reported	Alive	Stage I	578	False	578.0
+TCGA-AA-3688	NaN	not reported	Alive	Stage IV	578	False	578.0
+TCGA-AY-A8YK	NaN	black or african american	Alive	Stage IVA	573	False	573.0
+TCGA-DM-A1D6	570	white	Dead	Stage IIA	NaN	True	570.0
+TCGA-D5-6532	NaN	white	Alive	Stage IIA	555	False	555.0
+TCGA-NH-A50T	NaN	black or african american	Alive	Stage IIA	553	False	553.0
+TCGA-AA-3875	NaN	not reported	Alive	Stage I	549	False	549.0
+TCGA-AA-A00J	NaN	not reported	Alive	Stage IIIB	549	False	549.0
+TCGA-AA-A00K	NaN	not reported	Alive	Stage IIA	549	False	549.0
+TCGA-AA-3831	NaN	not reported	Alive	Stage IIA	547	False	547.0
+TCGA-AA-3554	NaN	not reported	Alive	Stage IIA	546	False	546.0
+TCGA-NH-A8F7	NaN	black or african american	Alive	Stage IIA	543	False	543.0
+TCGA-D5-6536	NaN	white	Alive	Stage IIA	543	False	543.0
+TCGA-AY-A69D	NaN	black or african american	Alive	Stage IIA	543	False	543.0
+TCGA-AY-6386	NaN	black or african american	Alive	Stage IIIB	542	False	542.0
+TCGA-D5-6531	NaN	white	Alive	Stage IIA	540	False	540.0
+TCGA-CK-4947	NaN	white	Alive	Stage IIIB	534	False	534.0
+TCGA-AY-A54L	NaN	black or african american	Alive	Stage I	525	False	525.0
+TCGA-D5-6538	NaN	white	Alive	Stage IIIB	521	False	521.0
+TCGA-CK-6751	NaN	white	Alive	Stage I	518	False	518.0
+TCGA-CM-5868	NaN	white	Alive	Stage IVA	518	False	518.0
+TCGA-AA-3846	NaN	not reported	Alive	Stage IIA	518	False	518.0
+TCGA-AA-A00U	NaN	not reported	Alive	Stage IIIB	518	False	518.0
+TCGA-AA-3866	NaN	not reported	Alive	Stage I	518	False	518.0
+TCGA-NH-A8F8	511	black or african american	Dead	Stage IV	NaN	True	511.0
+TCGA-A6-2683	504	white	Dead	Stage IV	NaN	True	504.0
+TCGA-AD-A5EK	NaN	black or african american	Alive	Stage I	500	False	500.0
+TCGA-AY-4070	496	black or african american	Dead	Stage IIIC	NaN	True	496.0
+TCGA-A6-A565	494	black or african american	Dead	Stage IIIC	NaN	True	494.0
+TCGA-D5-6540	NaN	white	Alive	Stage I	491	False	491.0
+TCGA-AA-3971	NaN	not reported	Alive	Stage III	489	False	489.0
+TCGA-CM-6165	NaN	white	Alive	Stage IIA	488	False	488.0
+TCGA-AA-3833	NaN	not reported	Alive	Stage IIA	485	False	485.0
+TCGA-NH-A6GB	NaN	black or african american	Alive	Stage IIIC	476	False	476.0
+TCGA-CK-4952	NaN	white	Alive	Stage IIIC	475	False	475.0
+TCGA-3L-AA1B	NaN	black or african american	Alive	Stage I	475	False	475.0
+TCGA-D5-6541	NaN	white	Alive	Stage IIA	474	False	474.0
+TCGA-AD-6888	472	white	Dead	Stage IIIB	NaN	True	472.0
+TCGA-D5-6535	NaN	white	Alive	Stage IIIB	460	False	460.0
+TCGA-CM-6161	NaN	white	Alive	Stage I	457	False	457.0
+TCGA-CM-5863	NaN	white	Alive	Stage IIIB	457	False	457.0
+TCGA-CM-5861	NaN	white	Alive	Stage IIA	457	False	457.0
+TCGA-AA-A017	NaN	not reported	Alive	Stage IIA	457	False	457.0
+TCGA-CM-6170	NaN	white	Alive	Stage I	457	False	457.0
+TCGA-CM-5864	NaN	white	Alive	Stage I	457	False	457.0
+TCGA-AA-A01C	NaN	not reported	Alive	Stage IIIA	457	False	457.0
+TCGA-AA-3679	NaN	not reported	Alive	Stage IV	457	False	457.0
+TCGA-CM-6167	NaN	black or african american	Alive	Stage IIIC	456	False	456.0
+TCGA-AA-A00W	NaN	not reported	Alive	Stage I	456	False	456.0
+TCGA-AA-3844	NaN	not reported	Alive	Stage IIIC	454	False	454.0
+TCGA-A6-4105	442	white	Dead	Stage IIA	NaN	True	442.0
+TCGA-AU-3779	NaN	white	Alive	Stage IIA	441	False	441.0
+TCGA-D5-6924	NaN	white	Alive	Stage IIA	435	False	435.0
+TCGA-CA-6719	NaN	asian	Alive	Stage IIA	435	False	435.0
+TCGA-DM-A288	427	white	Dead	Stage IIIC	NaN	True	427.0
+TCGA-CM-6171	NaN	white	Alive	Stage I	427	False	427.0
+TCGA-CM-6163	NaN	white	Alive	Stage I	427	False	427.0
+TCGA-AA-3667	NaN	not reported	Alive	Stage I	426	False	426.0
+TCGA-AA-A02K	426	not reported	Dead	Stage IV	NaN	True	426.0
+TCGA-AA-3544	NaN	not reported	Alive	Stage I	426	False	426.0
+TCGA-AA-A004	NaN	not reported	Alive	Stage IIA	424	False	424.0
+TCGA-A6-2682	424	white	Dead	Stage IV	NaN	True	424.0
+TCGA-AA-3561	NaN	not reported	Alive	Stage IIA	424	False	424.0
+TCGA-G4-6323	NaN	black or african american	Alive	Stage IA	419	False	419.0
+TCGA-D5-6929	NaN	white	Alive	Stage IV	408	False	408.0
+TCGA-D5-6930	NaN	white	Alive	Stage IIA	406	False	406.0
+TCGA-DM-A1D7	405	white	Dead	Stage IIA	NaN	True	405.0
+TCGA-F4-6809	403	white	Dead	Stage IVA	NaN	True	403.0
+TCGA-AA-3973	NaN	not reported	Alive	Stage IV	397	False	397.0
+TCGA-CM-6675	NaN	black or african american	Alive	Stage IVB	397	False	397.0
+TCGA-CM-4752	NaN	black or african american	Alive	Stage IIA	396	False	396.0
+TCGA-AA-3552	396	not reported	Dead	Stage IIIC	NaN	True	396.0
+TCGA-CM-6169	NaN	black or african american	Alive	Stage IIA	396	False	396.0
+TCGA-AA-3516	396	not reported	Dead	Stage III	NaN	True	396.0
+TCGA-CM-6168	NaN	black or african american	Alive	Stage IIA	395	False	395.0
+TCGA-AA-3542	NaN	not reported	Alive	Stage IIIC	395	False	395.0
+TCGA-AA-3939	NaN	not reported	Alive	Stage IIA	395	False	395.0
+TCGA-CM-6674	NaN	white	Alive	Stage IIA	394	False	394.0
+TCGA-NH-A6GC	NaN	black or african american	Alive	Stage IVB	389	False	389.0
+TCGA-CA-6717	NaN	asian	Alive	Stage IIA	388	False	388.0
+TCGA-CA-5254	NaN	asian	Alive	Stage IIA	386	False	386.0
+TCGA-4T-AA8H	NaN	black or african american	Alive	Stage IIA	385	False	385.0
+TCGA-CA-5797	NaN	asian	Alive	Stage IIA	383	False	383.0
+TCGA-CA-6715	NaN	asian	Alive	Stage IIIB	383	False	383.0
+TCGA-DM-A1D8	383	white	Dead	'--	NaN	True	383.0
+TCGA-D5-6539	NaN	white	Alive	'--	380	False	380.0
+TCGA-CA-5256	NaN	asian	Alive	Stage IIA	379	False	379.0
+TCGA-D5-6923	NaN	white	Alive	Stage I	378	False	378.0
+TCGA-CA-5796	NaN	asian	Alive	Stage IIA	377	False	377.0
+TCGA-D5-6920	NaN	white	Alive	Stage IIA	377	False	377.0
+TCGA-CA-5255	NaN	asian	Alive	Stage IIA	376	False	376.0
+TCGA-CA-6716	NaN	asian	Alive	Stage IIA	371	False	371.0
+TCGA-AD-5900	NaN	white	Alive	Stage I	370	False	370.0
+TCGA-AZ-6600	368	black or african american	Dead	Stage IV	NaN	True	368.0
+TCGA-CM-6680	NaN	white	Alive	Stage IIIB	366	False	366.0
+TCGA-AA-A01G	NaN	not reported	Alive	Stage IIA	365	False	365.0
+TCGA-D5-6931	NaN	white	Alive	Stage IIIC	365	False	365.0
+TCGA-CM-6162	NaN	white	Alive	Stage IIIB	365	False	365.0
+TCGA-T9-A92H	NaN	black or african american	Alive	Stage IIA	362	False	362.0
+TCGA-AZ-6606	357	white	Dead	Stage IV	NaN	True	357.0
+TCGA-D5-6928	NaN	white	Alive	Stage IIA	354	False	354.0
+TCGA-D5-6932	NaN	white	Alive	Stage IIA	346	False	346.0
+TCGA-F4-6461	338	white	Dead	Stage IIIC	NaN	True	338.0
+TCGA-CM-6677	NaN	white	Alive	Stage IIA	337	False	337.0
+TCGA-CM-6676	NaN	white	Alive	Stage I	337	False	337.0
+TCGA-CM-6678	NaN	white	Alive	Stage IVA	335	False	335.0
+TCGA-CM-6172	NaN	white	Alive	Stage IIIB	335	False	335.0
+TCGA-AA-3680	335	not reported	Dead	Stage IV	NaN	True	335.0
+TCGA-NH-A50U	334	black or african american	Dead	Stage IVA	NaN	True	334.0
+TCGA-AA-A01D	334	not reported	Dead	Stage IIIC	NaN	True	334.0
+TCGA-AD-6964	331	white	Dead	'--	NaN	True	331.0
+TCGA-D5-7000	NaN	white	Alive	Stage I	312	False	312.0
+TCGA-D5-6922	NaN	white	Alive	Stage IIIA	308	False	308.0
+TCGA-CM-6679	NaN	white	Alive	Stage IIA	306	False	306.0
+TCGA-AA-3848	306	not reported	Dead	Stage IIIC	NaN	True	306.0
+TCGA-AA-3811	306	not reported	Dead	Stage III	NaN	True	306.0
+TCGA-CA-6718	306	asian	Dead	Stage IIA	NaN	True	306.0
+TCGA-NH-A6GA	302	black or african american	Dead	Stage IIIC	NaN	True	302.0
+TCGA-A6-A5ZU	NaN	black or african american	Alive	Stage IIIB	293	False	293.0
+TCGA-5M-AAT6	290	black or african american	Dead	Stage IV	NaN	True	290.0
+TCGA-D5-6927	NaN	white	Alive	Stage IIA	287	False	287.0
+TCGA-AA-3519	NaN	not reported	Alive	Stage III	276	False	276.0
+TCGA-D5-6926	NaN	white	Alive	Stage IIIB	275	False	275.0
+TCGA-F4-6459	262	white	Dead	Stage IIIB	NaN	True	262.0
+TCGA-QG-A5Z1	256	black or african american	Dead	Stage IIIB	NaN	True	256.0
+TCGA-A6-6141	NaN	black or african american	Alive	Stage IIA	255	False	255.0
+TCGA-G4-6295	NaN	white	Alive	Stage II	254	False	254.0
+TCGA-CM-4750	NaN	white	Alive	Stage IIIA	244	False	244.0
+TCGA-AA-3980	NaN	not reported	Alive	Stage I	242	False	242.0
+TCGA-AA-3989	242	not reported	Dead	Stage IV	NaN	True	242.0
+TCGA-DM-A280	236	white	Dead	Stage IIA	NaN	True	236.0
+TCGA-D5-6898	NaN	white	Alive	Stage I	229	False	229.0
+TCGA-DM-A1DA	228	white	Dead	Stage IIIC	NaN	True	228.0
+TCGA-AA-3489	214	not reported	Dead	Stage II	NaN	True	214.0
+TCGA-AA-3663	NaN	not reported	Alive	Stage II	212	False	212.0
+TCGA-AA-3511	NaN	not reported	Alive	Stage II	212	False	212.0
+TCGA-AZ-6599	206	white	Dead	Stage I	NaN	True	206.0
+TCGA-F4-6570	188	white	Dead	Stage IIA	NaN	True	188.0
+TCGA-AA-3662	NaN	not reported	Alive	Stage IV	184	False	184.0
+TCGA-AA-3681	NaN	not reported	Alive	Stage III	182	False	182.0
+TCGA-DM-A285	179	white	Dead	Stage IV	NaN	True	179.0
+TCGA-AD-6899	176	white	Dead	Stage IIIC	NaN	True	176.0
+TCGA-AZ-4614	172	white	Dead	Stage IVA	NaN	True	172.0
+TCGA-AZ-6605	159	white	Dead	Stage IIIB	NaN	True	159.0
+TCGA-AZ-4616	156	white	Dead	Stage IV	NaN	True	156.0
+TCGA-AA-3696	153	not reported	Dead	Stage IV	NaN	True	153.0
+TCGA-CM-5862	153	white	Dead	Stage IVA	NaN	True	153.0
+TCGA-AA-3488	153	not reported	Dead	Stage IV	NaN	True	153.0
+TCGA-AA-A02J	153	not reported	Dead	Stage IV	NaN	True	153.0
+TCGA-4N-A93T	NaN	black or african american	Alive	Stage IIIB	146	False	146.0
+TCGA-D5-6537	146	white	Dead	Stage IIIB	NaN	True	146.0
+TCGA-AA-A00N	122	not reported	Dead	Stage IIB	NaN	True	122.0
+TCGA-AZ-6607	97	white	Dead	Stage IV	NaN	True	97.0
+TCGA-AA-A02E	90	not reported	Dead	Stage IV	NaN	True	90.0
+TCGA-AA-3666	61	not reported	Dead	Stage III	NaN	True	61.0
+TCGA-AA-3952	61	not reported	Dead	Stage IIIC	NaN	True	61.0
+TCGA-CK-6748	NaN	white	Alive	Stage IV	61	False	61.0
+TCGA-AA-3966	NaN	not reported	Alive	Stage IIA	61	False	61.0
+TCGA-AA-A02H	61	not reported	Dead	Stage IV	NaN	True	61.0
+TCGA-AA-3930	61	not reported	Dead	Stage IV	NaN	True	61.0
+TCGA-AZ-6608	59	white	Dead	Stage IIIA	NaN	True	59.0
+TCGA-5M-AAT4	49	black or african american	Dead	Stage IV	NaN	True	49.0
+TCGA-F4-6704	NaN	american indian or alaska native	Alive	Stage IIIC	47	False	47.0
+TCGA-AZ-4323	43	white	Dead	Stage IV	NaN	True	43.0
+TCGA-AA-A01Q	NaN	not reported	Alive	Stage II	31	False	31.0
+TCGA-AA-3494	NaN	not reported	Alive	Stage IV	31	False	31.0
+TCGA-AA-A01V	NaN	not reported	Alive	Stage I	31	False	31.0
+TCGA-AA-3514	NaN	not reported	Alive	Stage I	31	False	31.0
+TCGA-AA-3518	NaN	not reported	Alive	Stage IIA	31	False	31.0
+TCGA-AA-A01S	NaN	not reported	Alive	Stage III	31	False	31.0
+TCGA-AA-3496	NaN	not reported	Alive	Stage II	31	False	31.0
+TCGA-AA-3821	NaN	not reported	Alive	Stage I	31	False	31.0
+TCGA-AA-3818	30	not reported	Dead	Stage IIA	NaN	True	30.0
+TCGA-AA-A00R	NaN	not reported	Alive	Stage I	30	False	30.0
+TCGA-AA-3543	NaN	not reported	Alive	Stage I	30	False	30.0
+TCGA-AA-3856	NaN	not reported	Alive	Stage IIA	30	False	30.0
+TCGA-AY-4071	29	white	Dead	Stage I	NaN	True	29.0
+TCGA-AM-5821	NaN	white	Alive	Stage IIA	28	False	28.0
+TCGA-AA-A02O	NaN	not reported	Alive	Stage II	28	False	28.0
+TCGA-F4-6854	NaN	white	Alive	Stage IIA	16	False	16.0
+TCGA-AM-5820	NaN	white	Alive	Stage IVA	14	False	14.0
+TCGA-AY-6196	NaN	white	Alive	Stage IIIC	6	False	6.0
+TCGA-AA-3492	1	not reported	Dead	Stage II	NaN	True	1.0
+TCGA-AA-3525	NaN	not reported	Alive	Stage IIIB	1	False	1.0
+TCGA-G4-6626	1	white	Dead	Stage IIA	NaN	True	1.0
+TCGA-AA-A022	NaN	not reported	Alive	Stage II	0	False	0.0
+TCGA-G4-6302	0	white	Dead	Stage IIA	NaN	True	0.0
+TCGA-AA-3695	NaN	not reported	Alive	Stage IV	0	False	0.0
+TCGA-AA-3529	0	not reported	Dead	Stage IIIC	NaN	True	0.0
+TCGA-AA-3712	NaN	not reported	Alive	Stage III	0	False	0.0
+TCGA-AA-3684	NaN	not reported	Alive	Stage IV	0	False	0.0
+TCGA-AA-3872	NaN	not reported	Alive	Stage IV	0	False	0.0
+TCGA-AA-3850	0	not reported	Dead	Stage I	NaN	True	0.0
+TCGA-CK-6746	NaN	white	Alive	Stage IIB	0	False	0.0
+TCGA-AA-A03F	0	not reported	Dead	Stage III	NaN	True	0.0
+TCGA-CK-5915	NaN	white	Alive	Stage I	0	False	0.0
+TCGA-AA-3527	NaN	not reported	Alive	Stage IIA	0	False	0.0
+TCGA-AA-3984	NaN	not reported	Alive	Stage IIA	0	False	0.0
+TCGA-AA-3672	NaN	not reported	Alive	Stage III	0	False	0.0
+TCGA-AD-A5EJ	NaN	black or african american	Alive	Stage IIA	0	False	0.0
+TCGA-AA-3814	NaN	not reported	Alive	Stage IIA	0	False	0.0
+TCGA-NH-A5IV	NaN	black or african american	Alive	Stage IIA	0	False	0.0
+TCGA-AA-3852	0	not reported	Dead	Stage IIA	NaN	True	0.0
+TCGA-G4-6298	0	black or african american	Dead	Stage IIIB	NaN	True	0.0
+TCGA-AA-3845	0	not reported	Dead	Stage IIA	NaN	True	0.0
+TCGA-AA-3693	NaN	not reported	Alive	Stage IV	0	False	0.0
